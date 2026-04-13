@@ -1,0 +1,81 @@
+Place_ID,Place_Name,City,Province,Category,Latitude,Longitude,Terrain_Type,Time_Needed (H),Rating
+1,Jaffna Fort,Jaffna,Northern,History,9.6616,80.0108,Paved,2,4.6
+2,Nallur Kandaswamy Kovil,Nallur,Northern,Religious,9.6733,80.0302,Paved,2,4.8
+3,Jaffna Public Library,Jaffna,Northern,Museum,9.6685,80.0255,Paved,1.5,4.7
+4,Jaffna Archaeological Museum,Jaffna,Northern,Museum,9.6649,80.0293,Paved,1.5,4.5
+5,Dutch Reformed Church (Jaffna),Jaffna,Northern,History,9.6638,80.0138,Paved,1,4.4
+6,Jaffna Market,Jaffna,Northern,Shopping,9.6640,80.0210,Paved,1.5,4.3
+7,Old Park (Jaffna),Jaffna,Northern,Park,9.6680,80.0155,Paved,1.5,4.2
+8,Keerimalai Naguleswaram Kovil,Keerimalai,Northern,Religious,9.8236,80.0198,Paved,1.5,4.7
+9,Keerimalai Natural Springs,Keerimalai,Northern,Nature,9.8239,80.0194,Paved,1.5,4.5
+10,Kankesanthurai Beach (KKS),Kankesanthurai,Northern,Beach,9.8008,80.0387,Paved,2.5,4.3
+11,Kankesanthurai Harbor View,Kankesanthurai,Northern,Viewpoint,9.8030,80.0405,Paved,1,4.2
+12,Kandarodai (Kadurugoda) Temple Complex,Chunnakam,Northern,History,9.7457,80.0309,Paved,2,4.6
+13,Nilavarai Bottomless Well,Nilavarai,Northern,Nature,9.7653,80.0264,Paved,1.5,4.5
+14,Chundikulam National Park,Chundikulam,Northern,Nature,9.5420,80.4860,Off-Road,4,4.5
+15,Chundikulam Lagoon Birding,Chundikulam,Northern,Birding,9.5390,80.4900,Off-Road,3,4.5
+16,Casuarina Beach,Karainagar,Northern,Beach,9.7450,79.8810,Paved,3,4.6
+17,Karainagar Causeway Drive,Karainagar,Northern,Relax,9.7400,79.8850,Paved,1.5,4.4
+18,Nagadeepa Purana Viharaya,Nagadeepa (Nainativu),Northern,Religious,9.6028,79.7696,Paved,2,4.8
+19,Nainativu Nagapooshani Amman Kovil,Nainativu,Northern,Religious,9.6050,79.7705,Paved,2,4.8
+20,Delft (Neduntheevu) Island,Delft,Northern,Adventure,9.5450,79.6850,Off-Road,6,4.6
+21,Delft Wild Horses Area,Delft,Northern,Nature,9.5350,79.6900,Off-Road,4,4.5
+22,Delft Dutch Fort Ruins,Delft,Northern,History,9.5200,79.6670,Off-Road,2,4.4
+23,Pigeon Nest (Delft) Baobab Tree,Delft,Northern,Nature,9.5205,79.6760,Off-Road,1.5,4.4
+24,Kayts Island (Velanai) Causeway View,Kayts,Northern,Viewpoint,9.6200,79.8200,Paved,1.5,4.3
+25,Kayts Dutch Fort Ruins,Kayts,Northern,History,9.6750,79.8300,Off-Road,1.5,4.2
+26,Point Pedro Lighthouse,Point Pedro,Northern,History,9.8160,80.2400,Paved,1.5,4.5
+27,Point Pedro Beach,Point Pedro,Northern,Beach,9.8200,80.2350,Paved,2.5,4.4
+28,Valvettithurai Beach,VVT,Northern,Beach,9.8110,80.1700,Paved,2.5,4.3
+29,Thondaimanaru Lagoon,Thondaimanaru,Northern,Nature,9.8080,80.1000,Off-Road,2.5,4.4
+30,Thondaimanaru Bridge Viewpoint,Thondaimanaru,Northern,Viewpoint,9.8060,80.0950,Paved,1,4.3
+31,Chavakachcheri Market Walk,Chavakachcheri,Northern,Culture,9.6580,80.1650,Paved,1,4.2
+32,Chavakachcheri Hindu Temples Loop,Chavakachcheri,Northern,Religious,9.6540,80.1600,Paved,2,4.3
+33,Manalkadu Sand Dunes,Manalkadu,Northern,Nature,9.6900,80.3200,Off-Road,3,4.5
+34,Manalkadu Beach,Manalkadu,Northern,Beach,9.6940,80.3230,Off-Road,3,4.4
+35,Mullaitivu Beach,Mullaitivu,Northern,Beach,9.2670,80.8150,Paved,3,4.3
+36,Mullaitivu War Museum,Mullaitivu,Northern,Museum,9.2660,80.8140,Paved,1.5,4.2
+37,Mullaitivu Lagoon,Mullaitivu,Northern,Nature,9.2550,80.8000,Off-Road,2.5,4.3
+38,Kokkilai Lagoon,Kokkilai,Northern,Birding,9.1210,80.5980,Off-Road,3,4.4
+39,Nayaru Lagoon,Nayaru,Northern,Nature,9.2000,80.7700,Off-Road,2.5,4.3
+40,Vavuniya Town Park,Vavuniya,Northern,Park,8.7510,80.4980,Paved,1.5,4.2
+41,Vavuniya Market,Vavuniya,Northern,Shopping,8.7515,80.4988,Paved,1.5,4.2
+42,Madukanda Vihara,Madukanda,Northern,Religious,8.8700,80.2600,Paved,1.5,4.4
+43,Elephant Pass (Gateway),Elephant Pass,Northern,History,9.5150,80.3960,Paved,1,4.3
+44,Elephant Pass Lagoon Viewpoint,Elephant Pass,Northern,Viewpoint,9.5100,80.3900,Paved,1,4.3
+45,Kilinochchi War Memorial Area,Kilinochchi,Northern,History,9.3950,80.4030,Paved,1.5,4.1
+46,Kilinochchi Lagoon Edge,Kilinochchi,Northern,Nature,9.3900,80.4300,Off-Road,2,4.2
+47,Iranamadu Tank (Reservoir),Iranamadu,Northern,Nature,9.3400,80.4500,Off-Road,2.5,4.3
+48,Oddusuddan Thiruketheeswaram Kovil,Oddusuddan,Northern,Religious,9.1710,80.6810,Paved,1.5,4.3
+49,Mannar Fort,Mannar,Northern,History,8.9815,79.9233,Paved,2,4.5
+50,Mannar Dutch Fort Walls Walk,Mannar,Northern,History,8.9812,79.9229,Paved,1.5,4.4
+51,Madurankuliya? (omitted),-,Northern,History,0,0,Paved,0,0
+52,Adams Bridge (Ram Setu) Viewpoint,Talaimannar,Northern,Viewpoint,9.0910,79.7310,Paved,2,4.6
+53,Talaimannar Lighthouse,Talaimannar,Northern,History,9.0920,79.7318,Paved,1.5,4.5
+54,Talaimannar Pier & Beach,Talaimannar,Northern,Beach,9.0900,79.7330,Paved,2.5,4.4
+55,Thiruketheeswaram Kovil,Mannar,Northern,Religious,8.9890,79.8930,Paved,2,4.7
+56,Mannar Baobab Tree,Palampiddi/Mannar,Northern,Nature,8.9520,79.9130,Paved,1,4.5
+57,Mannar Bird Sanctuary (Vankalai),Vankalai,Northern,Birding,8.9540,79.9280,Off-Road,3,4.6
+58,Vankalai Lagoon,Vankalai,Northern,Nature,8.9580,79.9330,Off-Road,2.5,4.5
+59,Giants Tank (Yoda Wewa),Mannar,Northern,Nature,8.9600,79.9800,Off-Road,2.5,4.4
+60,Arippu Dutch Church Ruins,Arippu,Northern,History,8.8100,79.9000,Off-Road,2,4.2
+61,Arippu Beach,Arippu,Northern,Beach,8.8080,79.9010,Off-Road,3,4.3
+62,Madu Church (Shrine of Our Lady of Madhu),Madhu,Northern,Religious,8.8570,80.2080,Paved,2,4.7
+63,Murunkan Temple Circuit,Murunkan,Northern,Religious,8.9380,80.0600,Paved,2,4.2
+64,Palmyrah House Cultural Center,Jaffna,Northern,Culture,9.6650,80.0200,Paved,1.5,4.3
+65,Jaffna Lagoon Kayaking (local jetties),Jaffna,Northern,Adventure,9.6800,80.0050,Off-Road,3,4.4
+66,Thanthirimale? (out of province),-,Northern,History,0,0,Paved,0,0
+67,Charty Beach (near Point Pedro),Point Pedro,Northern,Beach,9.8205,80.2450,Paved,2.5,4.3
+68,Keerimalai Cliff Viewpoint,Keerimalai,Northern,Viewpoint,9.8242,80.0188,Hilly,1,4.5
+69,Jaffna Clock Tower,Jaffna,Northern,History,9.6690,80.0190,Paved,0.8,4.3
+70,Jaffna Railway Station Heritage Stop,Jaffna,Northern,History,9.6670,80.0178,Paved,1,4.2
+71,Kopay Hot Springs (local),Kopay,Northern,Nature,9.7000,80.0200,Off-Road,1.5,4.1
+72,Santhakulam Lake Walk,Jaffna,Northern,Relax,9.6800,80.0300,Paved,1.5,4.3
+73,Chavakachcheri Lagoon Edge,Chavakachcheri,Northern,Nature,9.6600,80.1700,Off-Road,2,4.2
+74,Puthukkudiyiruppu Town Memorial Area,Puthukkudiyiruppu,Northern,History,9.2500,80.7000,Paved,1.5,4.0
+75,Mullivaikkal Beach,Mullivaikkal,Northern,Beach,9.2600,80.9300,Off-Road,3,4.2
+76,Manthai West Ancient Port Area,Mannar (Mantai),Northern,History,8.9810,79.9500,Off-Road,2,4.3
+77,Pooneryn Fort Ruins,Pooneryn,Northern,History,9.5020,80.2070,Off-Road,2,4.3
+78,Pooneryn Beach,Pooneryn,Northern,Beach,9.4950,80.2030,Off-Road,3,4.3
+79,Iyakachchi Town Stop,Iyakachchi,Northern,Culture,9.4450,80.4520,Paved,1,4.1
+80,Mannar Causeway Drive,Mannar,Northern,Relax,9.0000,79.9500,Paved,1.5,4.4

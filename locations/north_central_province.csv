@@ -1,0 +1,91 @@
+Place_ID,Place_Name,City,Province,Category,Latitude,Longitude,Terrain_Type,Time_Needed (H),Rating
+1,Jaya Sri Maha Bodhi,Anuradhapura,North Central,Religious,8.3335,80.403,Paved,1.5,4.9
+2,Ruwanweliseya Stupa,Anuradhapura,North Central,Religious,8.3505,80.4038,Paved,2,4.9
+3,Jetavanaramaya Stupa,Anuradhapura,North Central,History,8.3385,80.4025,Paved,2,4.8
+4,Abhayagiri Stupa,Anuradhapura,North Central,History,8.372,80.402,Paved,2,4.7
+5,Thuparamaya Dagoba,Anuradhapura,North Central,Religious,8.3567,80.4019,Paved,1.5,4.7
+6,Mirisawetiya Stupa,Anuradhapura,North Central,History,8.357,80.394,Paved,1.5,4.6
+7,Isurumuniya Viharaya,Anuradhapura,North Central,Religious,8.329,80.4035,Paved,1.5,4.7
+8,Kuttam Pokuna (Twin Ponds),Anuradhapura,North Central,History,8.3739,80.3985,Paved,1.5,4.6
+9,Samadhi Buddha Statue,Anuradhapura,North Central,History,8.36,80.408,Paved,1,4.6
+10,Anuradhapura Archaeological Museum,Anuradhapura,North Central,Museum,8.3395,80.405,Paved,1.5,4.6
+11,Ranmasu Uyana (Royal Gardens),Anuradhapura,North Central,History,8.331,80.398,Paved,1.5,4.5
+12,Vessagiriya Ruins,Anuradhapura,North Central,History,8.323,80.396,Off-Road,1.5,4.5
+13,Lovamahapaya (Brazen Palace) Ruins,Anuradhapura,North Central,History,8.345,80.4035,Paved,1,4.5
+14,Eth Pokuna (Elephant Pond),Anuradhapura,North Central,History,8.374,80.399,Paved,1,4.5
+15,Queen’s Pavilion Ruins,Anuradhapura,North Central,History,8.337,80.406,Paved,1,4.4
+16,Moonstone (Sandakada Pahana) - Anuradhapura,Anuradhapura,North Central,History,8.3405,80.4045,Paved,0.8,4.5
+17,Abhayagiri Monastery Complex,Anuradhapura,North Central,History,8.3715,80.401,Paved,2,4.6
+18,Il Pansala (Image House) at Thuparama,Anuradhapura,North Central,History,8.3562,80.4022,Paved,1,4.5
+19,Tissa Wewa Lake,Anuradhapura,North Central,Relax,8.333,80.397,Paved,2,4.5
+20,Nuwara Wewa Lake,Anuradhapura,North Central,Relax,8.33,80.425,Paved,2,4.4
+21,Basawakkulama (Abhaya Wewa),Anuradhapura,North Central,Nature,8.364,80.384,Paved,1.5,4.5
+22,Nachchaduwa Wewa,Anuradhapura,North Central,Nature,8.283,80.525,Off-Road,2.5,4.4
+23,Kala Wewa Reservoir,Kalawewa,North Central,Nature,8.1,80.5,Off-Road,2.5,4.6
+24,Aukana Buddha Statue,Aukana,North Central,History,8.073,80.506,Paved,1.5,4.8
+25,Vijithapura Ruins,Mihintale,North Central,History,8.352,80.517,Paved,1.5,4.5
+26,Thanthirimale Rajamaha Viharaya,Thanthirimale,North Central,Religious,8.504,80.321,Off-Road,2.5,4.6
+27,Mihintale Aradhana Gala Summit,Mihintale,North Central,Hiking,8.37,80.51,Hilly,2,4.7
+28,Mihintale Ambasthala Stupa,Mihintale,North Central,Religious,8.356,80.514,Hilly,1.5,4.7
+29,Kantaka Chetiya,Mihintale,North Central,History,8.368,80.517,Hilly,1.5,4.6
+30,Kaludiya Pokuna (Mihintale),Mihintale,North Central,Nature,8.348,80.52,Off-Road,2,4.6
+31,Naga Pokuna (Mihintale),Mihintale,North Central,Nature,8.357,80.516,Hilly,1.5,4.5
+32,Mihintale Ancient Hospital,Mihintale,North Central,History,8.358,80.513,Paved,1,4.5
+33,Mihintale Maha Seya,Mihintale,North Central,Religious,8.367,80.52,Hilly,1.5,4.6
+34,Mihintale Alms Hall Ruins,Mihintale,North Central,History,8.3575,80.5135,Paved,1,4.4
+35,Ritigala Strict Nature Reserve,Ritigala,North Central,Hiking,8.118,80.699,Hilly,3,4.7
+36,Ritigala Monastic Ruins,Ritigala,North Central,History,8.121,80.702,Off-Road,2,4.6
+37,Hurulu Eco Park,Habarana,North Central,Safari,8.029,80.751,Off-Road,4,4.6
+38,Habarana Lake,Habarana,North Central,Relax,8.047,80.748,Paved,1.5,4.5
+39,Rajanganaya Dam,Rajanganaya,North Central,Architecture,8.152,80.226,Paved,1.5,4.4
+40,Wilpattu National Park (Hunuwilagama Gate),Nochchiyagama,North Central,Safari,8.457,79.996,Off-Road,6,4.8
+41,Awkana Reservoir Viewpoint,Aukana,North Central,Viewpoint,8.077,80.502,Paved,1,4.4
+42,Avukana Heritage Museum,Aukana,North Central,Museum,8.074,80.505,Paved,1,4.4
+43,Anuradhapura New Town Market Walk,Anuradhapura,North Central,Culture,8.335,80.41,Paved,1,4.3
+44,Isinbassagala Rajamaha Vihara,Medawachchiya,North Central,Religious,8.535,80.513,Paved,1.5,4.4
+45,Padeniya? (omitted),-,North Central,History,0,0,Paved,0,0
+46,Parakrama Samudraya,Polonnaruwa,North Central,Nature,7.934,81.017,Paved,2.5,4.7
+47,Polonnaruwa Archaeological Museum,Polonnaruwa,North Central,Museum,7.9385,81.0019,Paved,1.5,4.6
+48,King Parakramabahu’s Royal Palace,Polonnaruwa,North Central,History,7.941,81.001,Paved,1.5,4.7
+49,Council Chamber (Audience Hall),Polonnaruwa,North Central,History,7.9415,81.0015,Paved,1,4.6
+50,Quadrangle (Dalada Maluwa),Polonnaruwa,North Central,History,7.9402,81.0006,Paved,2,4.8
+51,Polonnaruwa Vatadage,Polonnaruwa,North Central,History,7.9403,81.0005,Paved,1,4.8
+52,Nissanka Latha Mandapaya,Polonnaruwa,North Central,History,7.9406,81.0007,Paved,0.8,4.7
+53,Hatadage Shrine,Polonnaruwa,North Central,History,7.9401,81.0004,Paved,0.8,4.6
+54,Atadage Shrine,Polonnaruwa,North Central,History,7.94,81.0003,Paved,0.8,4.6
+55,Gal Potha (Stone Book),Polonnaruwa,North Central,History,7.9407,81.0006,Paved,0.8,4.6
+56,Sathmahal Prasada,Polonnaruwa,North Central,History,7.9463,80.9975,Paved,1,4.6
+57,Rankoth Vehera,Polonnaruwa,North Central,History,7.9488,80.9956,Paved,1.5,4.7
+58,Kiri Vehera,Polonnaruwa,North Central,History,7.95,80.996,Paved,1,4.6
+59,Lankatilaka Image House,Polonnaruwa,North Central,History,7.948,80.9955,Paved,1.5,4.7
+60,Gal Vihara,Polonnaruwa,North Central,History,7.9435,81.0026,Paved,1.5,4.9
+61,Tivanka Image House,Polonnaruwa,North Central,History,7.955,80.9985,Paved,1.5,4.7
+62,Nelum Pokuna (Lotus Pond),Polonnaruwa,North Central,History,7.9515,80.9949,Paved,1,4.6
+63,Demala Maha Seya,Polonnaruwa,North Central,History,7.9597,80.992,Off-Road,1.5,4.4
+64,Pothgul Viharaya,Polonnaruwa,North Central,History,7.933,81.002,Paved,1,4.6
+65,Shiva Devale No. 1,Polonnaruwa,North Central,History,7.941,81.001,Paved,0.8,4.5
+66,Shiva Devale No. 2,Polonnaruwa,North Central,History,7.9413,81.0008,Paved,0.8,4.5
+67,Parakrama Bahu Statue,Polonnaruwa,North Central,History,7.9315,81.006,Paved,0.8,4.6
+68,Kumara Pokuna (Royal Bath),Polonnaruwa,North Central,History,7.9395,81.002,Paved,0.8,4.5
+69,Sudden Viewpoint of Parakrama Samudraya,Polonnaruwa,North Central,Viewpoint,7.936,81.015,Paved,1,4.5
+70,Medirigiriya Vatadage,Medirigiriya,North Central,History,8.127,80.963,Paved,1.5,4.7
+71,Giritale Wewa,Giritale,North Central,Nature,7.997,80.935,Paved,2,4.6
+72,Giritale Forest Reserve,Giritale,North Central,Nature,7.999,80.938,Off-Road,2.5,4.5
+73,Minneriya National Park,Minneriya,North Central,Safari,8.031,80.821,Off-Road,6,4.8
+74,Kaudulla National Park,Kaudulla,North Central,Safari,8.138,80.904,Off-Road,6,4.7
+75,Somawathiya National Park,Somawathiya,North Central,Safari,8.146,81.097,Off-Road,6,4.6
+76,Angammedilla National Park,Angammedilla,North Central,Nature,7.979,80.868,Off-Road,4,4.6
+77,Maduru Oya National Park (Polonnaruwa Sector),Aralaganwila,North Central,Safari,7.695,81.22,Off-Road,6,4.6
+78,Diyabeduma Waterfall,Aralaganwila,North Central,Nature,8.045,81.12,Hilly,2,4.4
+79,Manampitiya Bridge,Manampitiya,North Central,Architecture,8.196,81.062,Paved,1,4.3
+80,Habarana Elephant Watch & Village Walk,Habarana,North Central,Culture,8.048,80.745,Off-Road,2.5,4.5
+81,Mahaweli River Viewpoint - Somawathiya,Somawathiya,North Central,Viewpoint,8.16,81.11,Off-Road,1.5,4.4
+82,Diyabubula Eco Area (Habarana side),Habarana,North Central,Nature,8.04,80.76,Off-Road,2,4.4
+83,Hathikuchchi Archaeological Site,Anuradhapura,North Central,History,7.989,80.482,Off-Road,2,4.5
+84,Ederagala Wewa View,Habarana,North Central,Relax,8.06,80.752,Paved,1,4.3
+85,Awkana Lake Sunset Point,Aukana,North Central,Viewpoint,8.071,80.5065,Paved,1,4.5
+86,Kalankuttiya Wewa,Medawachchiya,North Central,Nature,8.615,80.545,Off-Road,2,4.3
+87,Nelumkulama Tank & Birding,Nelumkulama,North Central,Birding,8.453,80.367,Off-Road,2.5,4.4
+88,Thammannakulama Tank Anuradhapura,Anuradhapura,North Central,Nature,8.367,80.388,Paved,1.5,4.4
+89,Keeriyankalliya Lake Edge,Polonnaruwa,North Central,Relax,7.95,81.04,Paved,1.5,4.3
+90,One Tree Hill View (Polonnaruwa North),Polonnaruwa,North Central,Viewpoint,7.96,81.015,Hilly,1.2,4.3

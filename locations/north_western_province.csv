@@ -1,0 +1,81 @@
+Place_ID,Place_Name,City,Province,Category,Latitude,Longitude,Terrain_Type,Time_Needed (H),Rating
+1,Wilpattu National Park (Puttalam Entrance),Eluwankulama,North Western,Safari,8.4560,79.9950,Off-Road,6,4.8
+2,Kalpitiya Beach,Kalpitiya,North Western,Beach,8.2290,79.7690,Paved,4,4.6
+3,Kalpitiya Lagoon,Kalpitiya,North Western,Nature,8.2460,79.7700,Off-Road,3,4.6
+4,Dutch Fort (Kalpitiya),Kalpitiya,North Western,History,8.2320,79.7650,Paved,1.5,4.4
+5,Kite Surfing - Kalpitiya,Kalpitiya,North Western,Adventure,8.2390,79.7640,Off-Road,4,4.7
+6,Dolphin & Whale Watching (Kalpitiya),Kalpitiya,North Western,Adventure,8.2400,79.7600,Off-Road,4,4.6
+7,Alankuda Beach,Alankuda,North Western,Beach,8.1280,79.7140,Paved,4,4.5
+8,Kudawa Beach (Kalpitiya Peninsula),Kudawa,North Western,Beach,8.2450,79.7350,Off-Road,3.5,4.4
+9,Baththalangunduwa Island,Baththalangunduwa,North Western,Adventure,8.2660,79.7210,Off-Road,6,4.5
+10,Dutch Bay (Puttalam Lagoon Side),Kalpitiya,North Western,Nature,8.2400,79.7700,Off-Road,2.5,4.4
+11,St. Anne’s Shrine,Talawila,North Western,Religious,8.0650,79.7090,Paved,2,4.7
+12,Talawila Beach,Talawila,North Western,Beach,8.0660,79.7070,Paved,3.5,4.4
+13,Munneswaram Kovil,Chilaw,North Western,Religious,7.5880,79.7990,Paved,2,4.6
+14,St. Mary’s Cathedral (Chilaw),Chilaw,North Western,Religious,7.5750,79.7950,Paved,1.5,4.4
+15,Chilaw Beach Park,Chilaw,North Western,Beach,7.5740,79.7940,Paved,3,4.3
+16,Anawilundawa Wetland Sanctuary,Anawilundawa,North Western,Birding,7.6760,79.8250,Off-Road,3.5,4.6
+17,Senanayake Samudraya View (Puttalam side),Puttalam,North Western,Viewpoint,8.0200,79.8300,Paved,1.5,4.2
+18,Puttalam Lagoon,Puttalam,North Western,Nature,8.0330,79.8290,Off-Road,3,4.4
+19,Puttalam Salt Pans (Palavi area),Palavi,North Western,Culture,8.0360,79.8350,Paved,2.5,4.3
+20,Kurunegala Elephant Rock (Ethagala),Kurunegala,North Western,Viewpoint,7.4860,80.3630,Hilly,2,4.6
+21,Athugala Buddha Statue,Kurunegala,North Western,Religious,7.4865,80.3625,Hilly,1.5,4.6
+22,Kurunegala Lake (Wewa) Walk,Kurunegala,North Western,Relax,7.4830,80.3570,Paved,1.5,4.4
+23,Kurunegala Clock Tower Area,Kurunegala,North Western,History,7.4868,80.3620,Paved,1,4.2
+24,Ridi Viharaya,Ridigama,North Western,Religious,7.5220,80.4370,Hilly,2,4.7
+25,Arankele Forest Monastery,Arankele,North Western,History,7.6350,80.3180,Off-Road,2.5,4.6
+26,Yapahuwa Rock Fortress,Yapahuwa,North Western,History,7.8160,80.3130,Hilly,3.5,4.7
+27,Yapahuwa Stone Stairway & Lion Gate,Yapahuwa,North Western,History,7.8165,80.3135,Hilly,2.5,4.7
+28,Panduwasnuwara Ancient Kingdom Ruins,Panduwasnuwara,North Western,History,7.7080,80.2020,Paved,2,4.5
+29,Panduwasnuwara Museum,Panduwasnuwara,North Western,Museum,7.7085,80.2025,Paved,1.5,4.4
+30,Deduru Oya Reservoir,Deduru Oya,North Western,Nature,7.6000,80.2500,Off-Road,2.5,4.4
+31,Deduru Oya River Banks (Chilaw side),Chilaw,North Western,Nature,7.5700,79.8200,Off-Road,2,4.3
+32,Negombo–Puttalam Coastal Drive Viewpoints,Wennappuwa,North Western,Viewpoint,7.5200,79.8500,Paved,1.5,4.2
+33,Waikkal Beach (NW stretch),Waikkal,North Western,Beach,7.3189,79.8555,Paved,3,4.4
+34,Marawila Beach,Marawila,North Western,Beach,7.4090,79.8260,Paved,3.5,4.4
+35,Marawila Church (St. Sebastian’s),Marawila,North Western,Religious,7.4095,79.8255,Paved,1.5,4.3
+36,Maha Oya River Mouth,Wennappuwa,North Western,Nature,7.5000,79.8400,Off-Road,2,4.2
+37,Maha Oya Estuary Birding,Wennappuwa,North Western,Birding,7.5010,79.8405,Off-Road,2.5,4.3
+38,Udappu Lagoon,Udappu,North Western,Nature,7.7420,79.8190,Off-Road,2.5,4.4
+39,Udappu Bird Sanctuary (local),Udappu,North Western,Birding,7.7410,79.8200,Off-Road,3,4.4
+40,Chilaw Lagoon,Chilaw,North Western,Nature,7.5820,79.7860,Off-Road,2.5,4.3
+41,Chilaw Fishing Harbour Walk,Chilaw,North Western,Culture,7.5755,79.7920,Paved,1.5,4.2
+42,Mahawewa / Maha Oya Scenic Bridge,Marawila,North Western,Architecture,7.4150,79.8280,Paved,1,4.1
+43,Anamaduwa Reservoir (Anamaduwa Wewa),Anamaduwa,North Western,Nature,7.8730,80.0100,Off-Road,2.5,4.3
+44,Chilaw Munneswaram Festival Grounds,Chilaw,North Western,Culture,7.5885,79.7995,Paved,2,4.3
+45,Puttalam Grand Mosque,Puttalam,North Western,Religious,8.0360,79.8280,Paved,1.5,4.3
+46,St. James’ Church (Kurunegala),Kurunegala,North Western,Religious,7.4860,80.3600,Paved,1.5,4.2
+47,Padeniya Raja Maha Viharaya,Padeniya,North Western,Religious,7.5660,80.4100,Paved,1.5,4.4
+48,Bathalagoda Tank,Bathalagoda,North Western,Nature,7.5900,80.3600,Off-Road,2.5,4.3
+49,Bathalagoda Bird Watching Point,Bathalagoda,North Western,Birding,7.5905,80.3595,Off-Road,2.5,4.3
+50,Thalawila Scenic Coastal Belt,Talawila,North Western,Relax,8.0620,79.7080,Paved,2,4.3
+51,Kalpitiya Dutch Church Ruins,Kalpitiya,North Western,History,8.2325,79.7655,Paved,1.5,4.2
+52,Kalpitiya Peninsula Sand Dunes,Kalpitiya,North Western,Nature,8.2400,79.7400,Off-Road,3,4.4
+53,Palavi Railway Station Heritage Stop,Palavi,North Western,History,8.0400,79.8350,Paved,1,4.0
+54,Eluwankulama Village Edge (Wilpattu buffer),Eluwankulama,North Western,Culture,8.4550,80.0000,Off-Road,2,4.2
+55,Anuradhapura–Puttalam Road Scenic Point (NW),Nochchiyagama Border,NW,Viewpoint,8.3500,80.1000,Paved,1.5,4.1
+56,Maha Saman Devalaya (Chilaw area),Chilaw,North Western,Religious,7.5850,79.7900,Paved,1.5,4.2
+57,Kurinchanpitiya Mangroves,Puttalam,North Western,Nature,8.0650,79.8300,Off-Road,2.5,4.3
+58,Puttalam Kite Beach (lagoon edge),Kalpitiya,North Western,Adventure,8.2400,79.7720,Off-Road,3.5,4.5
+59,Meemure? (not NW) placeholder removed,,-,-,0,0,-,0,0
+60,Chilaw–Puttalam Mangrove Boat Ride (local),Puttalam,North Western,Adventure,8.0300,79.8280,Off-Road,3.5,4.4
+61,Kurunegala Cultural Centre Area,Kurunegala,North Western,Culture,7.4880,80.3620,Paved,1.5,4.2
+62,Wellawa Wewa,Wellawa,North Western,Nature,7.8500,80.2500,Off-Road,2.5,4.3
+63,Maligatenna? (not NW) placeholder removed,,-,-,0,0,-,0,0
+64,Polpitigama Village Walk,Polpitigama,North Western,Culture,7.8100,80.4100,Paved,2,4.2
+65,Maho Railway Junction Heritage Stop,Maho,North Western,History,7.8220,80.2800,Paved,1.5,4.2
+66,Maho River Viewpoint,Maho,North Western,Viewpoint,7.8240,80.2760,Paved,1.5,4.2
+67,Narammala Lake Walk,Narammala,North Western,Relax,7.4300,80.2200,Paved,1.5,4.1
+68,Kuliyapitiya Town Market,Kuliyapitiya,North Western,Shopping,7.4700,80.0400,Paved,1.5,4.1
+69,Kuliyapitiya Temple Circuit,Kuliyapitiya,North Western,Religious,7.4680,80.0405,Paved,2,4.2
+70,Galgamuwa Park & Tank,Galgamuwa,North Western,Park,7.9950,80.2650,Paved,1.5,4.2
+71,Galgamuwa Town Viewpoint,Galgamuwa,North Western,Viewpoint,7.9980,80.2680,Paved,1,4.1
+72,Nikaweratiya Reservoir,Nikaweratiya,North Western,Nature,7.7500,80.1200,Off-Road,2.5,4.2
+73,Wariyapola Sri Sumangala Rajamaha Viharaya,Wariyapola,North Western,Religious,7.6100,80.2400,Paved,1.5,4.4
+74,Kobeigane Temple Loop,Kobeigane,North Western,Religious,7.6500,80.2300,Paved,1.5,4.2
+75,Bingiriya Temple Area,Bingiriya,North Western,Religious,7.6050,80.0300,Paved,1.5,4.2
+76,Chilaw Marina (local),Chilaw,North Western,Relax,7.5750,79.7925,Paved,1.5,4.1
+77,Kalpitiya Lagoon Sunset Point,Kalpitiya,North Western,Viewpoint,8.2465,79.7705,Paved,1.5,4.5
+78,Rambaken Oya Scenic Stop,Yapahuwa area,North Western,Nature,7.8200,80.3000,Off-Road,2.5,4.2
+79,Yapahuwa Museum Corner,Yapahuwa,North Western,Museum,7.8162,80.3128,Paved,1.5,4.3
+80,Panduwasnuwara Ancient Tank Walk,Panduwasnuwara,North Western,Nature,7.7060,80.2050,Off-Road,2.5,4.3

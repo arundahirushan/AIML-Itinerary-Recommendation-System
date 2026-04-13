@@ -1,0 +1,86 @@
+Place_ID,Place_Name,City,Province,Category,Latitude,Longitude,Terrain_Type,Time_Needed (H),Rating
+1,Nilaveli Beach,Nilaveli,Eastern,Beach,8.6874,81.1877,Paved,4,4.7
+2,Uppuveli Beach,Uppuveli,Eastern,Beach,8.6070,81.2110,Paved,4,4.6
+3,Pigeon Island National Park,Nilaveli,Eastern,Nature,8.7170,81.2130,Off-Road,4,4.7
+4,Trincomalee Harbour Viewpoint,Trincomalee,Eastern,Viewpoint,8.5760,81.2320,Paved,1.5,4.5
+5,Fort Frederick,Trincomalee,Eastern,History,8.5730,81.2330,Paved,2,4.6
+6,Koneswaram Temple (Thirukoneswaram),Trincomalee,Eastern,Religious,8.5693,81.2439,Hilly,2,4.8
+7,Swami Rock (Lover’s Leap),Trincomalee,Eastern,Viewpoint,8.5690,81.2445,Hilly,1.5,4.7
+8,Marble Beach,Pulmoddai Road,Eastern,Beach,8.5150,81.2020,Paved,3.5,4.6
+9,Dutch Bay Beach,Trincomalee,Eastern,Beach,8.5680,81.2210,Paved,3,4.4
+10,Trincomalee War Cemetery,Trincomalee,Eastern,History,8.6010,81.2180,Paved,1,4.4
+11,Pathirakali Amman Kovil,Trincomalee,Eastern,Religious,8.5710,81.2340,Paved,1.5,4.6
+12,Trincomalee Hindu Cultural Hall Area,Trincomalee,Eastern,Culture,8.5715,81.2350,Paved,1,4.3
+13,Hot Water Wells (Kanniya),Kanniya,Eastern,Nature,8.6120,81.1820,Paved,1.5,4.5
+14,Lover’s Leap Viewpoint (Trinco),Trincomalee,Eastern,Viewpoint,8.5710,81.2440,Hilly,1,4.5
+15,Seruwila Mangala Raja Maha Vihara,Seruwila,Eastern,Religious,8.3640,81.3130,Paved,2,4.6
+16,Seruwila Allai Tank Birding,Seruwila,Eastern,Birding,8.3440,81.2930,Off-Road,2.5,4.4
+17,Somawathiya Chaitya (Eastern access),Somawathiya,Eastern,Religious,8.1460,81.0970,Off-Road,3,4.6
+18,Kuchchaveli Beach,Kuchchaveli,Eastern,Beach,8.7730,81.1630,Off-Road,4,4.5
+19,Shanthi Beach (near Trinco),Trincomalee,Eastern,Beach,8.5990,81.2400,Paved,3,4.4
+20,Velgam Vehera,Trincomalee District,Eastern,History,8.7310,81.1250,Off-Road,2.5,4.5
+21,Girihandu Seya,Thiriyai,Eastern,Religious,8.7380,81.1420,Off-Road,2.5,4.6
+22,Thiriyai Beach,Thiriyai,Eastern,Beach,8.7410,81.1570,Off-Road,3.5,4.4
+23,Trincomalee Fishing Harbour Walk,Trincomalee,Eastern,Culture,8.5685,81.2250,Paved,1.5,4.2
+24,Batticaloa Lagoon,Batticaloa,Eastern,Nature,7.7170,81.7000,Off-Road,3,4.5
+25,Batticaloa Dutch Fort,Batticaloa,Eastern,History,7.7185,81.6942,Paved,2,4.4
+26,Kallady Bridge & “Singing Fish” Area,Batticaloa,Eastern,History,7.7175,81.7210,Paved,1.5,4.2
+27,Kallady Beach,Batticaloa,Eastern,Beach,7.7210,81.7280,Paved,3.5,4.4
+28,Pasikudah Beach,Pasikudah,Eastern,Beach,7.9300,81.5660,Paved,4,4.7
+29,Kalkudah Beach,Kalkudah,Eastern,Beach,7.9330,81.5580,Paved,4,4.6
+30,Valaichchenai Lagoon,Valaichchenai,Eastern,Nature,7.9100,81.5400,Off-Road,2.5,4.3
+31,Batticaloa Market,Batticaloa,Eastern,Shopping,7.7170,81.7020,Paved,1.5,4.1
+32,Unnichchai Tank,Unnichchai,Eastern,Nature,7.6050,81.6760,Off-Road,3,4.4
+33,Madampe/Thoppigala (Baron’s Cap),Thoppigala,Eastern,Hiking,7.6740,81.6170,Hilly,4,4.6
+34,Thoppigala Viewpoint,Thoppigala,Eastern,Viewpoint,7.6760,81.6150,Hilly,2,4.5
+35,Arugam Bay,Arugam Bay,Eastern,Beach,6.8400,81.8360,Paved,4,4.8
+36,Main Point Surf Break,Arugam Bay,Eastern,Adventure,6.8390,81.8360,Paved,3,4.7
+37,Whiskey Point,Pottuvil,Eastern,Adventure,6.9020,81.8320,Off-Road,3,4.7
+38,Pottuvil Point,Pottuvil,Eastern,Beach,6.8790,81.8280,Off-Road,3.5,4.6
+39,Elephant Rock (Arugam Bay),Pottuvil,Eastern,Hiking,6.8460,81.8270,Hilly,2.5,4.7
+40,Crocodile Rock,Arugam Bay,Eastern,Hiking,6.8260,81.8210,Hilly,2.5,4.6
+41,Lahugala National Park,Lahugala,Eastern,Safari,6.8780,81.4680,Off-Road,5,4.6
+42,Kumana National Park (Yala East),Panama,Eastern,Safari,6.6510,81.6670,Off-Road,6,4.6
+43,Kudumbigala Monastery,Panama,Eastern,Religious,6.7380,81.7390,Hilly,3,4.6
+44,Panama Lagoon,Panama,Eastern,Nature,6.7630,81.7840,Off-Road,3,4.5
+45,Okanda Beach,Okanda,Eastern,Beach,6.6000,81.7900,Off-Road,4,4.5
+46,Okanda Murugan Kovil,Okanda,Eastern,Religious,6.5960,81.7920,Paved,2,4.6
+47,Magul Maha Viharaya,Panama,Eastern,History,6.7290,81.6990,Off-Road,2.5,4.5
+48,Muhudu Maha Viharaya,Pottuvil,Eastern,Religious,6.8690,81.8280,Paved,2,4.6
+49,Pottuvil Lagoon Safari,Pottuvil,Eastern,Adventure,6.8690,81.8320,Off-Road,3.5,4.6
+50,Deegavapi Stupa,Ampara,Eastern,Religious,7.2960,81.6750,Off-Road,2.5,4.6
+51,Ampara Town Park,Ampara,Eastern,Park,7.2910,81.6710,Paved,1.5,4.1
+52,Gal Oya National Park,Inginiyagala,Eastern,Safari,7.2400,81.5000,Off-Road,6,4.7
+53,Senanayake Samudraya (Gal Oya Reservoir),Inginiyagala,Eastern,Nature,7.2600,81.5000,Paved,3,4.6
+54,Boat Safari to Gal Oya Islands,Inginiyagala,Eastern,Adventure,7.2500,81.5000,Off-Road,5,4.7
+55,Buddhangala Monastery,Ampara,Eastern,Religious,7.4240,81.3450,Off-Road,2.5,4.6
+56,Inginiyagala Dam,Inginiyagala,Eastern,Architecture,7.2000,81.4830,Paved,2,4.4
+57,Akkaraipattu Beach,Akkaraipattu,Eastern,Beach,7.2170,81.8510,Paved,3.5,4.3
+58,Kalmunai Beach,Kalmunai,Eastern,Beach,7.4140,81.8260,Paved,3.5,4.2
+59,Sainthamaruthu Beach,Sainthamaruthu,Eastern,Beach,7.3800,81.8350,Paved,3.5,4.2
+60,Addalaichenai Beach,Addalaichenai,Eastern,Beach,7.4760,81.7590,Paved,3.5,4.2
+61,Komari Beach,Komari,Eastern,Beach,6.9980,81.8290,Off-Road,4,4.4
+62,Ullackalie Lagoon (near Komari),Komari,Eastern,Nature,7.0100,81.8300,Off-Road,2.5,4.3
+63,Kalpitiya? (not Eastern) placeholder removed,,-,-,0,0,-,0,0
+64,Batticaloa St. Mary’s Cathedral,Batticaloa,Eastern,Religious,7.7160,81.7020,Paved,1.5,4.3
+65,Batticaloa Hindu Temples Circuit,Batticaloa,Eastern,Religious,7.7170,81.7050,Paved,2,4.3
+66,Pasikudah Water Sports Bay,Pasikudah,Eastern,Adventure,7.9305,81.5650,Paved,3.5,4.6
+67,Kalkudah Sandbar Walk,Kalkudah,Eastern,Nature,7.9360,81.5560,Off-Road,2.5,4.4
+68,Trincomalee Beach Road Sunset Points,Uppuveli,Eastern,Relax,8.6060,81.2140,Paved,2,4.4
+69,Sampur Beach & View,Sampur,Eastern,Beach,8.4780,81.3000,Off-Road,3.5,4.2
+70,Sampur Viewpoint,Sampur,Eastern,Viewpoint,8.4750,81.2950,Paved,1.5,4.2
+71,Kiliveddy Lagoon,Kiliveddy,Eastern,Nature,8.3770,81.3050,Off-Road,2.5,4.3
+72,Muttur Hot Wells,Muttur,Eastern,Nature,8.4600,81.2700,Paved,1.5,4.2
+73,Kantalai Tank,Kantalai,Eastern,Nature,8.3670,81.0000,Off-Road,3,4.4
+74,Kantalai Sugar Factory Heritage Stop,Kantalai,Eastern,History,8.3650,81.0100,Paved,1.5,4.1
+75,Kinniya Hot Springs (Kanniya Wells),Kinniya,Eastern,Nature,8.6120,81.1820,Paved,1.5,4.5
+76,Trinco Navy Museum Area (local),Trincomalee,Eastern,Museum,8.5670,81.2300,Paved,1.5,4.2
+77,Coral Island Snorkeling (Nilaveli),Nilaveli,Eastern,Adventure,8.7070,81.2060,Off-Road,4,4.6
+78,Batticaloa Lagoon Kayaking,Batticaloa,Eastern,Adventure,7.7170,81.7000,Off-Road,3,4.4
+79,Pottuvil Market & Fishing Culture Walk,Pottuvil,Eastern,Culture,6.8690,81.8285,Paved,1.5,4.1
+80,Trincomalee Railway Station Heritage Stop,Trincomalee,Eastern,History,8.5750,81.2340,Paved,1,4.1
+81,Kudawella? (not Eastern) placeholder removed,,-,-,0,0,-,0,0
+82,Vakarai Beach,Vakarai,Eastern,Beach,8.1330,81.4500,Off-Road,4,4.4
+83,Vakarai Lagoon,Vakarai,Eastern,Nature,8.1400,81.4450,Off-Road,2.5,4.3
+84,Kalkudah Reef Snorkeling Spot,Kalkudah,Eastern,Adventure,7.9340,81.5585,Off-Road,3.5,4.5
+85,Trincomalee Bay Whale & Dolphin Watching,Trincomalee,Eastern,Adventure,8.5750,81.2350,Off-Road,4,4.6

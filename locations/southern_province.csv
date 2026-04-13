@@ -1,0 +1,91 @@
+Place_ID,Place_Name,City,Province,Category,Latitude,Longitude,Terrain_Type,Time_Needed (H),Rating
+1,Galle Dutch Fort,Galle,Southern,History,6.027,80.217,Paved,3,4.9
+2,Galle Lighthouse,Galle,Southern,History,6.022,80.216,Paved,1,4.8
+3,National Maritime Museum,Galle,Southern,Museum,6.026,80.216,Paved,1.5,4.6
+4,Dutch Reformed Church (Groote Kerk),Galle,Southern,History,6.026,80.217,Paved,1,4.6
+5,All Saints Church,Galle,Southern,History,6.025,80.216,Paved,1,4.5
+6,Old Dutch Hospital Shopping Precinct,Galle,Southern,Shopping,6.024,80.214,Paved,1.5,4.5
+7,Galle Fort Ramparts & Clock Tower,Galle,Southern,History,6.03,80.216,Paved,1.5,4.6
+8,Galle National Museum,Galle,Southern,Museum,6.025,80.217,Paved,1.5,4.5
+9,Unawatuna Beach,Unawatuna,Southern,Beach,6.012,80.246,Paved,3,4.7
+10,Jungle Beach (Rumassala),Rumassala,Southern,Nature,6.01,80.246,Off-Road,2.5,4.7
+11,Japanese Peace Pagoda,Rumassala,Southern,Religious,6.0086,80.2482,Hilly,1.5,4.6
+12,Yatagala Rajamaha Viharaya,Unawatuna,Southern,Religious,6.022,80.263,Hilly,1.5,4.6
+13,Dalawella Beach,Dalawella,Southern,Beach,6.005,80.262,Paved,3,4.6
+14,Mihiripenna Beach,Mihiripenna,Southern,Beach,6,80.266,Paved,3,4.5
+15,Thalpe Beach,Thalpe,Southern,Beach,5.992,80.293,Paved,3,4.5
+16,Koggala Beach,Koggala,Southern,Beach,5.99,80.322,Paved,3,4.6
+17,Koggala Lake,Koggala,Southern,Nature,5.994,80.345,Off-Road,2.5,4.6
+18,Martin Wickramasinghe Folk Museum,Koggala,Southern,Museum,5.993,80.319,Paved,1.5,4.6
+19,Habaraduwa Sea Turtle Hatchery,Habaraduwa,Southern,Nature,6,80.322,Paved,1.5,4.6
+20,Handunugoda Tea Estate (Virgin White Tea),Ahangama,Southern,Museum,5.966,80.356,Hilly,2,4.7
+21,Ahangama Beach,Ahangama,Southern,Beach,5.973,80.385,Paved,3,4.5
+22,Midigama Beach,Midigama,Southern,Beach,5.956,80.406,Paved,3,4.5
+23,Kathaluwa Old Temple,Kathaluwa,Southern,Religious,5.987,80.342,Paved,1.5,4.5
+24,Hikkaduwa Beach,Hikkaduwa,Southern,Beach,6.14,80.1,Paved,3,4.6
+25,Hikkaduwa Coral Sanctuary,Hikkaduwa,Southern,Nature,6.139,80.103,Off-Road,2,4.6
+26,Hikkaduwa National Park,Hikkaduwa,Southern,Nature,6.139,80.102,Off-Road,3,4.6
+27,Seenigama Devalaya,Seenigama,Southern,Religious,6.152,80.1,Paved,1,4.5
+28,Dodanduwa Lake,Dodanduwa,Southern,Nature,6.1,80.082,Off-Road,2,4.4
+29,Kosgoda Turtle Conservation Project,Kosgoda,Southern,Nature,6.35,80.03,Paved,2,4.6
+30,Madu River Safari,Balapitiya,Southern,Adventure,6.345,80.034,Off-Road,3,4.6
+31,Maduganga Islands Birding,Balapitiya,Southern,Birding,6.34,80.04,Off-Road,2.5,4.5
+32,Dewata Surf Point,Dewata,Southern,Adventure,6.016,80.236,Paved,2.5,4.5
+33,Rumassala Sanjeewani Hill Viewpoint,Rumassala,Southern,Viewpoint,6.009,80.246,Hilly,1.5,4.6
+34,Pitiwella Beach,Pitiwella,Southern,Beach,6.074,80.191,Paved,2.5,4.4
+35,Boossa Beach,Boossa,Southern,Beach,6.071,80.187,Paved,2.5,4.4
+36,Rathgama Lake,Rathgama,Southern,Nature,6.088,80.172,Off-Road,2,4.4
+37,Matara Fort,Matara,Southern,History,5.948,80.546,Paved,1.5,4.6
+38,Star Fort,Matara,Southern,History,5.949,80.548,Paved,1.5,4.6
+39,Parevi Duwa Temple,Matara,Southern,Religious,5.939,80.551,Paved,1,4.6
+40,Matara Beach,Matara,Southern,Beach,5.942,80.552,Paved,3,4.5
+41,Polhena Beach,Polhena,Southern,Beach,5.936,80.521,Paved,3,4.6
+42,Madiha Beach,Madiha,Southern,Beach,5.93,80.508,Paved,3,4.5
+43,Mirissa Beach,Mirissa,Southern,Beach,5.943,80.457,Paved,3,4.7
+44,Mirissa Whale Watching,Mirissa,Southern,Adventure,5.943,80.457,Off-Road,4,4.8
+45,Coconut Tree Hill,Mirissa,Southern,Viewpoint,5.935,80.451,Hilly,1.5,4.7
+46,Secret Beach Mirissa,Mirissa,Southern,Beach,5.94,80.443,Paved,2.5,4.6
+47,Weligama Bay Beach,Weligama,Southern,Beach,5.972,80.429,Paved,3,4.6
+48,Taprobane Island Viewpoint,Weligama,Southern,Viewpoint,5.974,80.423,Paved,1,4.5
+49,Kushtarajagala Statue,Weligama,Southern,History,5.977,80.429,Paved,1,4.5
+50,Weherahena Poorwarama Temple,Matara,Southern,Religious,5.943,80.579,Paved,2,4.6
+51,Dondra Head Lighthouse,Devinuwara,Southern,History,5.918,80.589,Paved,1.5,4.7
+52,Devinuwara Vishnu Devalaya,Devinuwara,Southern,Religious,5.919,80.588,Paved,1.5,4.6
+53,Dondra Beach,Devinuwara,Southern,Beach,5.915,80.592,Paved,3,4.5
+54,Talalla Beach,Talalla,Southern,Beach,5.939,80.617,Paved,3,4.6
+55,Nilwella Beach,Nilwella,Southern,Beach,5.95,80.691,Paved,3,4.5
+56,Hummanaya Blowhole,Kudawella,Southern,Nature,5.951,80.7,Off-Road,1.5,4.7
+57,Hiriketiya Beach,Dikwella,Southern,Beach,5.939,80.714,Paved,3,4.7
+58,Dikwella Beach,Dikwella,Southern,Beach,5.938,80.706,Paved,3,4.6
+59,Kirala Kelle Wetland,Matara,Southern,Nature,5.965,80.522,Off-Road,2,4.4
+60,Gandara Bay Beach,Gandara,Southern,Beach,5.904,80.609,Paved,2.5,4.4
+61,Thalaramba Beach,Thalaramba,Southern,Beach,5.94,80.469,Paved,2.5,4.5
+62,Kottegoda Beach,Kottegoda,Southern,Beach,5.912,80.649,Paved,2.5,4.4
+63,Tangalle Beach,Tangalle,Southern,Beach,6.022,80.793,Paved,3,4.6
+64,Medaketiya Beach,Tangalle,Southern,Beach,6.018,80.798,Paved,3,4.5
+65,Goyambokka Beach,Tangalle,Southern,Beach,6.027,80.773,Paved,3,4.6
+66,Silent Beach,Tangalle,Southern,Beach,6.037,80.781,Paved,3,4.6
+67,Rekawa Turtle Beach,Rekawa,Southern,Nature,6.042,80.87,Off-Road,3,4.7
+68,Kalametiya Bird Sanctuary,Kalametiya,Southern,Birding,6.075,80.938,Off-Road,3,4.6
+69,Ridiyagama Safari Park,Ridiyagama,Southern,Safari,6.193,80.925,Off-Road,4,4.5
+70,Dry Zone Botanic Gardens (Mirijjawila),Hambantota,Southern,Nature,6.126,81.103,Paved,2.5,4.6
+71,Hambantota Birds Park & Safari,Hambantota,Southern,Birding,6.125,81.129,Paved,3,4.4
+72,Bundala National Park,Bundala,Southern,Safari,6.204,81.18,Off-Road,6,4.7
+73,Tissamaharama Raja Maha Vihara,Tissamaharama,Southern,Religious,6.285,81.283,Paved,1.5,4.6
+74,Yatala Vehera,Tissamaharama,Southern,History,6.283,81.284,Paved,1.5,4.6
+75,Tissa Wewa Lake,Tissamaharama,Southern,Relax,6.286,81.295,Paved,2,4.5
+76,Debarawewa Lake,Debarawewa,Southern,Nature,6.275,81.288,Off-Road,2,4.4
+77,Weerawila Lake,Weerawila,Southern,Nature,6.253,81.152,Off-Road,2,4.4
+78,Kirinda Beach & Vihara,Kirinda,Southern,Beach,6.373,81.33,Paved,2.5,4.5
+79,Lunugamvehera National Park,Lunugamvehera,Southern,Safari,6.513,81.075,Off-Road,6,4.6
+80,Yala National Park (Palatupana Gate),Palatupana,Southern,Safari,6.4,81.52,Off-Road,6,4.8
+81,Sithulpawwa Rajamaha Viharaya,Yala,Southern,Religious,6.406,81.215,Off-Road,2.5,4.7
+82,Walawe River Safari,Ambalantota,Southern,Adventure,6.16,80.923,Off-Road,3,4.5
+83,Ussangoda National Park,Ambalantota,Southern,Nature,6.114,80.905,Off-Road,2.5,4.6
+84,Hambantota Sand Dunes,Hambantota,Southern,Nature,6.132,81.112,Off-Road,2,4.4
+85,Mahapelessa (Madunagala) Hot Springs,Sooriyawewa,Southern,Nature,6.278,80.934,Off-Road,1.5,4.5
+86,Tangalle Lagoon,Tangalle,Southern,Nature,6.027,80.79,Off-Road,2,4.4
+87,Magampura Port Viewpoint,Hambantota,Southern,Architecture,6.119,81.121,Paved,1,4.3
+88,Bundala Embilikala Lagoon,Bundala,Southern,Birding,6.205,81.16,Off-Road,2.5,4.6
+89,Palatupana Beach,Palatupana,Southern,Beach,6.39,81.534,Paved,2.5,4.4
+90,Tissamaharama Archaeological Museum,Tissamaharama,Southern,Museum,6.285,81.282,Paved,1.5,4.5

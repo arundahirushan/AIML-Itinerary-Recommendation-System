@@ -1,0 +1,77 @@
+Place_ID,Place_Name,City,Province,Category,Latitude,Longitude,Terrain_Type,Time_Needed (H),Rating
+1,Sri Dalada Maligawa (Temple of the Tooth),Kandy,Central,Religious,7.2936,80.6413,Paved,2,4.9
+2,Royal Botanical Gardens Peradeniya,Peradeniya,Central,Nature,7.2716,80.5966,Hilly,3,4.8
+3,Kandy Lake Promenade,Kandy,Central,Relax,7.2905,80.6409,Paved,1.5,4.6
+4,Bahirawakanda Buddha Statue,Kandy,Central,Religious,7.2945,80.626,Hilly,1.5,4.7
+5,Udawattakele Forest Reserve,Kandy,Central,Nature,7.2974,80.6384,Off-Road,2.5,4.6
+6,Ceylon Tea Museum,Hanthana,Central,Museum,7.249,80.625,Hilly,1.5,4.6
+7,Kandy Garrison Cemetery,Kandy,Central,History,7.2958,80.64,Paved,1,4.4
+8,Arthur’s Seat Viewpoint,Kandy,Central,Viewpoint,7.2902,80.6415,Hilly,1,4.5
+9,Lankatilaka Viharaya,Udunuwara,Central,Religious,7.2847,80.553,Paved,1.5,4.6
+10,Gadaladeniya Viharaya,Pilimathalawa,Central,Religious,7.2813,80.5617,Hilly,1.5,4.6
+11,Embekka Devalaya,Udunuwara,Central,Religious,7.2769,80.5672,Paved,1.5,4.5
+12,National Railway Museum,Kadugannawa,Central,Museum,7.2576,80.506,Paved,1.5,4.5
+13,Kadugannawa Viewpoint,Kadugannawa,Central,Viewpoint,7.2562,80.4931,Hilly,1,4.4
+14,Kandy National Museum,Kandy,Central,Museum,7.294,80.641,Paved,1.5,4.5
+15,Neligala International Buddhist Center,Wadugama,Central,Religious,7.3605,80.522,Hilly,2,4.7
+16,Ambuluwawa Biodiversity Complex & Tower,Gampola,Central,Architecture,7.117,80.575,Hilly,2,4.7
+17,Victoria Golf & Country Resort,Digana,Central,Adventure,7.311,80.801,Paved,3,4.6
+18,Victoria Reservoir & Dam,Teldeniya,Central,Nature,7.32,80.787,Paved,2.5,4.5
+19,Hunas Falls,Elkaduwa,Central,Hiking,7.423,80.656,Hilly,2,4.6
+20,Hanthana Mountain Range,Hanthana,Central,Hiking,7.249,80.62,Hilly,3,4.6
+21,Sembuwatta Lake,Elkaduwa,Central,Nature,7.553,80.714,Hilly,3,4.7
+22,Riverston Plateau,Matale,Central,Hiking,7.502,80.703,Hilly,4,4.7
+23,Mini World’s End (Pitawala),Matale,Central,Viewpoint,7.515,80.704,Hilly,2.5,4.6
+24,Knuckles Mountain Range (Dumbara),Matale,Central,Hiking,7.445,80.781,Hilly,6,4.8
+25,Meemure Village,Meemure,Central,Adventure,7.418,80.812,Off-Road,5,4.7
+26,Bambarakiri Ella,Rattota,Central,Hiking,7.548,80.735,Hilly,2,4.6
+27,Sera Ella,Pothatawela,Central,Hiking,7.541,80.729,Hilly,2,4.6
+28,Aluvihare Rock Temple,Matale,Central,Religious,7.478,80.623,Hilly,1.5,4.6
+29,Nalanda Gedige,Naula,Central,History,7.6169,80.6623,Paved,1.5,4.6
+30,Sigiriya Rock Fortress,Sigiriya,Central,History,7.957,80.7603,Paved,4,4.9
+31,Sigiriya Museum,Sigiriya,Central,Museum,7.955,80.759,Paved,1.5,4.5
+32,Pidurangala Rock,Sigiriya,Central,Hiking,7.947,80.75,Hilly,3,4.8
+33,Dambulla Cave Temple,Dambulla,Central,Religious,7.8596,80.6517,Paved,2.5,4.8
+34,Ibbankatuwa Megalithic Tombs,Dambulla,Central,History,7.946,80.669,Off-Road,1.5,4.5
+35,Popham’s Arboretum,Dambulla,Central,Nature,7.873,80.674,Off-Road,2,4.4
+36,Jathika Namal Uyana,Dambulla,Central,Nature,7.96,80.71,Off-Road,3,4.5
+37,Wasgamuwa National Park,Naula,Central,Safari,7.762,80.887,Off-Road,6,4.7
+38,Kaludiya Pokuna Forest Monastery,Naula,Central,History,7.56,80.639,Off-Road,2,4.5
+39,Kotmale Dam,Kotmale,Central,Nature,7.016,80.612,Paved,2.5,4.5
+40,Kotmale Mahaweli Maha Seya,Kotmale,Central,Religious,7.064,80.618,Hilly,1.5,4.5
+41,Kotmale Hanging Bridge,Palugama,Central,Architecture,7.026,80.646,Paved,1.5,4.4
+42,Ramboda Falls,Ramboda,Central,Hiking,7.067,80.706,Hilly,2,4.7
+43,Bluefield Tea Gardens,Ramboda,Central,Museum,7.058,80.67,Paved,1.5,4.6
+44,Labookellie Tea Centre (Damro),Labookellie,Central,Museum,7.05,80.667,Paved,1.5,4.6
+45,Gregory Lake,Nuwara Eliya,Central,Relax,6.97,80.782,Paved,2,4.6
+46,Victoria Park,Nuwara Eliya,Central,Park,6.971,80.789,Paved,1.5,4.6
+47,Hakgala Botanical Gardens,Hakgala,Central,Nature,6.951,80.817,Hilly,2.5,4.7
+48,Seetha Amman Temple,Seetha Eliya,Central,Religious,6.951,80.809,Paved,1,4.5
+49,Galway’s Land National Park,Nuwara Eliya,Central,Nature,6.972,80.777,Off-Road,1.5,4.4
+50,Pidurutalagala (Mount Pedro),Nuwara Eliya,Central,Hiking,6.98,80.77,Hilly,3,4.7
+51,Moon Plains (Sandathenna),Nuwara Eliya,Central,Viewpoint,6.971,80.802,Hilly,2,4.6
+52,Horton Plains National Park,Ohiya,Central,Nature,6.802,80.814,Off-Road,6,4.8
+53,World’s End Viewpoint,Horton Plains,Central,Hiking,6.796,80.799,Hilly,3,4.8
+54,Baker’s Falls,Horton Plains,Central,Hiking,6.788,80.815,Hilly,2,4.7
+55,Ambewela Farm (Highland Dairy),Ambewela,Central,Culture,6.904,80.727,Paved,2,4.5
+56,New Zealand Farm,Ambewela,Central,Culture,6.913,80.715,Paved,2,4.5
+57,Lover’s Leap Waterfall,Nuwara Eliya,Central,Hiking,6.97,80.806,Hilly,1.5,4.5
+58,Pedro Tea Estate & Factory,Nuwara Eliya,Central,Museum,6.972,80.806,Paved,1.5,4.6
+59,Bomburu Ella Waterfall,Udu Pussellawa,Central,Hiking,6.933,80.788,Hilly,2,4.6
+60,St. Clair’s Falls,Talawakelle,Central,Nature,6.951,80.533,Hilly,2,4.6
+61,Devon Falls,Talawakelle,Central,Nature,6.959,80.499,Hilly,2,4.6
+62,Aberdeen Falls,Ginigathhena,Central,Hiking,6.99,80.383,Hilly,2.5,4.6
+63,Laxapana Falls,Maskeliya,Central,Hiking,6.906,80.503,Hilly,2.5,4.6
+64,Castlereagh Reservoir,Hatton,Central,Relax,6.834,80.536,Paved,2.5,4.5
+65,Maussakelle Reservoir,Maskeliya,Central,Relax,6.809,80.487,Paved,2.5,4.5
+66,Adam’s Peak (Sri Pada) via Nallathanniya,Nallathanniya,Central,Hiking,6.809,80.499,Hilly,6,4.8
+67,Nuwara Eliya Golf Club,Nuwara Eliya,Central,Relax,6.97,80.766,Paved,3,4.5
+68,Gregory Lake Boating,Nuwara Eliya,Central,Adventure,6.967,80.782,Paved,2,4.5
+69,Single Tree Hill Viewpoint,Nanu Oya,Central,Hiking,6.966,80.767,Hilly,2,4.5
+70,Kande Ela Reservoir,Nuwara Eliya,Central,Nature,6.938,80.787,Paved,2,4.4
+71,Nuwara Eliya Central Market,Nuwara Eliya,Central,Culture,6.971,80.764,Paved,1,4.3
+72,Kandy War Cemetery,Kandy,Central,History,7.287,80.647,Paved,1,4.4
+73,Galmaduwa Viharaya (Temple),Kundasale,Central,History,7.329,80.67,Hilly,1.5,4.4
+74,Wales Park (Royal Palace Park),Kandy,Central,Park,7.291,80.638,Paved,1.5,4.5
+75,Ceylon Tea Trails Lookouts,Hatton,Central,Relax,6.826,80.541,Paved,2.5,4.6
+76,Taylor’s Seat Viewpoint,Maskeliya,Central,Viewpoint,6.834,80.51,Hilly,1.5,4.5

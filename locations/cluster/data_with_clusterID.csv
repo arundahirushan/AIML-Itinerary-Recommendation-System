@@ -1,0 +1,728 @@
+Place_ID,Place_Name,City,Province,Category,Latitude,Longitude,Terrain_Type,Time_Needed (H),Rating,real_distance,Cluster_ID,Cluster_Name
+1,Sri Dalada Maligawa (Temple of the Tooth),Kandy,Central,Religious,7.2936,80.6413,Paved,2.0,4.9,119.2284,14,Kandy Area
+2,Royal Botanical Gardens Peradeniya,Peradeniya,Central,Nature,7.2716,80.5966,Hilly,3.0,4.8,115.9901,14,Kandy Area
+3,Kandy Lake Promenade,Kandy,Central,Relax,7.2905,80.6409,Paved,1.5,4.6,117.4018,14,Kandy Area
+4,Bahirawakanda Buddha Statue,Kandy,Central,Religious,7.2945,80.626,Hilly,1.5,4.7,117.7532,14,Kandy Area
+5,Udawattakele Forest Reserve,Kandy,Central,Nature,7.2974,80.6384,Off-Road,2.5,4.6,116.2199,14,Kandy Area
+6,Ceylon Tea Museum,Hanthana,Central,Museum,7.249,80.625,Hilly,1.5,4.6,124.3825,14,Kandy Area
+7,Kandy Garrison Cemetery,Kandy,Central,History,7.2958,80.64,Paved,1.0,4.4,116.9789,14,Kandy Area
+8,Arthur’s Seat Viewpoint,Kandy,Central,Viewpoint,7.2902,80.6415,Hilly,1.0,4.5,117.8099,14,Kandy Area
+9,Lankatilaka Viharaya,Udunuwara,Central,Religious,7.2847,80.553,Paved,1.5,4.6,114.1958,14,Kandy Area
+10,Gadaladeniya Viharaya,Pilimathalawa,Central,Religious,7.2813,80.5617,Hilly,1.5,4.6,113.6554,14,Kandy Area
+11,Embekka Devalaya,Udunuwara,Central,Religious,7.2769,80.5672,Paved,1.5,4.5,99.067,14,Kandy Area
+12,National Railway Museum,Kadugannawa,Central,Museum,7.2576,80.506,Paved,1.5,4.5,95.7306,14,Kandy Area
+13,Kadugannawa Viewpoint,Kadugannawa,Central,Viewpoint,7.2562,80.4931,Hilly,1.0,4.4,88.9041,14,Kandy Area
+14,Kandy National Museum,Kandy,Central,Museum,7.294,80.641,Paved,1.5,4.5,116.7888,14,Kandy Area
+15,Neligala International Buddhist Center,Wadugama,Central,Religious,7.3605,80.522,Hilly,2.0,4.7,100.7964,14,Kandy Area
+16,Ambuluwawa Biodiversity Complex & Tower,Gampola,Central,Architecture,7.117,80.575,Hilly,2.0,4.7,111.9008,14,Kandy Area
+17,Victoria Golf & Country Resort,Digana,Central,Adventure,7.311,80.801,Paved,3.0,4.6,143.2159,14,Kandy Area
+18,Victoria Reservoir & Dam,Teldeniya,Central,Nature,7.32,80.787,Paved,2.5,4.5,139.927,14,Kandy Area
+19,Hunas Falls,Elkaduwa,Central,Hiking,7.423,80.656,Hilly,2.0,4.6,134.194,14,Kandy Area
+20,Hanthana Mountain Range,Hanthana,Central,Hiking,7.249,80.62,Hilly,3.0,4.6,119.6876,14,Kandy Area
+21,Sembuwatta Lake,Elkaduwa,Central,Nature,7.553,80.714,Hilly,3.0,4.7,146.5349,14,Kandy Area
+22,Riverston Plateau,Matale,Central,Hiking,7.502,80.703,Hilly,4.0,4.7,140.2248,14,Kandy Area
+23,Mini World’s End (Pitawala),Matale,Central,Viewpoint,7.515,80.704,Hilly,2.5,4.6,139.07379999999998,14,Kandy Area
+24,Knuckles Mountain Range (Dumbara),Matale,Central,Hiking,7.445,80.781,Hilly,6.0,4.8,145.6766,14,Kandy Area
+25,Meemure Village,Meemure,Central,Adventure,7.418,80.812,Off-Road,5.0,4.7,152.2851,14,Kandy Area
+26,Bambarakiri Ella,Rattota,Central,Hiking,7.548,80.735,Hilly,2.0,4.6,150.2194,14,Kandy Area
+27,Sera Ella,Pothatawela,Central,Hiking,7.541,80.729,Hilly,2.0,4.6,150.2194,14,Kandy Area
+28,Aluvihare Rock Temple,Matale,Central,Religious,7.478,80.623,Hilly,1.5,4.6,125.2976,14,Kandy Area
+29,Nalanda Gedige,Naula,Central,History,7.6169,80.6623,Paved,1.5,4.6,123.3183,14,Kandy Area
+30,Sigiriya Rock Fortress,Sigiriya,Central,History,7.957,80.7603,Paved,4.0,4.9,149.29229999999998,6,Dambulla Area
+31,Sigiriya Museum,Sigiriya,Central,Museum,7.955,80.759,Paved,1.5,4.5,149.2152,6,Dambulla Area
+32,Pidurangala Rock,Sigiriya,Central,Hiking,7.947,80.75,Hilly,3.0,4.8,148.11010000000002,6,Dambulla Area
+33,Dambulla Cave Temple,Dambulla,Central,Religious,7.8596,80.6517,Paved,2.5,4.8,132.0848,14,Kandy Area
+34,Ibbankatuwa Megalithic Tombs,Dambulla,Central,History,7.946,80.669,Off-Road,1.5,4.5,141.91729999999998,6,Dambulla Area
+35,Popham’s Arboretum,Dambulla,Central,Nature,7.873,80.674,Off-Road,2.0,4.4,136.0231,6,Dambulla Area
+36,Jathika Namal Uyana,Dambulla,Central,Nature,7.96,80.71,Off-Road,3.0,4.5,144.2713,6,Dambulla Area
+37,Wasgamuwa National Park,Naula,Central,Safari,7.762,80.887,Off-Road,6.0,4.7,160.5909,6,Dambulla Area
+38,Kaludiya Pokuna Forest Monastery,Naula,Central,History,7.56,80.639,Off-Road,2.0,4.5,121.9408,14,Kandy Area
+39,Kotmale Dam,Kotmale,Central,Nature,7.016,80.612,Paved,2.5,4.5,131.12,14,Kandy Area
+40,Kotmale Mahaweli Maha Seya,Kotmale,Central,Religious,7.064,80.618,Hilly,1.5,4.5,125.7581,14,Kandy Area
+41,Kotmale Hanging Bridge,Palugama,Central,Architecture,7.026,80.646,Paved,1.5,4.4,136.9615,14,Kandy Area
+42,Ramboda Falls,Ramboda,Central,Hiking,7.067,80.706,Hilly,2.0,4.7,144.4325,14,Kandy Area
+43,Bluefield Tea Gardens,Ramboda,Central,Museum,7.058,80.67,Paved,1.5,4.6,143.36939999999998,14,Kandy Area
+44,Labookellie Tea Centre (Damro),Labookellie,Central,Museum,7.05,80.667,Paved,1.5,4.6,142.4805,14,Kandy Area
+45,Gregory Lake,Nuwara Eliya,Central,Relax,6.97,80.782,Paved,2.0,4.6,160.74460000000002,9,Nuwara Eliya
+46,Victoria Park,Nuwara Eliya,Central,Park,6.971,80.789,Paved,1.5,4.6,161.7608,9,Nuwara Eliya
+47,Hakgala Botanical Gardens,Hakgala,Central,Nature,6.951,80.817,Hilly,2.5,4.7,164.43929999999995,9,Nuwara Eliya
+48,Seetha Amman Temple,Seetha Eliya,Central,Religious,6.951,80.809,Paved,1.0,4.5,163.2081,9,Nuwara Eliya
+49,Galway’s Land National Park,Nuwara Eliya,Central,Nature,6.972,80.777,Off-Road,1.5,4.4,159.7862,9,Nuwara Eliya
+50,Pidurutalagala (Mount Pedro),Nuwara Eliya,Central,Hiking,6.98,80.77,Hilly,3.0,4.7,158.38989999999998,9,Nuwara Eliya
+51,Moon Plains (Sandathenna),Nuwara Eliya,Central,Viewpoint,6.971,80.802,Hilly,2.0,4.6,164.4531,9,Nuwara Eliya
+52,Horton Plains National Park,Ohiya,Central,Nature,6.802,80.814,Off-Road,6.0,4.8,183.6931,9,Nuwara Eliya
+53,World’s End Viewpoint,Horton Plains,Central,Hiking,6.796,80.799,Hilly,3.0,4.8,183.0549,9,Nuwara Eliya
+54,Baker’s Falls,Horton Plains,Central,Hiking,6.788,80.815,Hilly,2.0,4.7,184.8845,9,Nuwara Eliya
+55,Ambewela Farm (Highland Dairy),Ambewela,Central,Culture,6.904,80.727,Paved,2.0,4.5,151.7425,9,Nuwara Eliya
+56,New Zealand Farm,Ambewela,Central,Culture,6.913,80.715,Paved,2.0,4.5,147.7713,9,Nuwara Eliya
+57,Lover’s Leap Waterfall,Nuwara Eliya,Central,Hiking,6.97,80.806,Hilly,1.5,4.5,163.9306,9,Nuwara Eliya
+58,Pedro Tea Estate & Factory,Nuwara Eliya,Central,Museum,6.972,80.806,Paved,1.5,4.6,164.0915,9,Nuwara Eliya
+59,Bomburu Ella Waterfall,Udu Pussellawa,Central,Hiking,6.933,80.788,Hilly,2.0,4.6,160.26870000000002,9,Nuwara Eliya
+60,St. Clair’s Falls,Talawakelle,Central,Nature,6.951,80.533,Hilly,2.0,4.6,109.5339,3,Hatton Area
+61,Devon Falls,Talawakelle,Central,Nature,6.959,80.499,Hilly,2.0,4.6,105.1546,3,Hatton Area
+62,Aberdeen Falls,Ginigathhena,Central,Hiking,6.99,80.383,Hilly,2.5,4.6,83.60119999999999,3,Hatton Area
+63,Laxapana Falls,Maskeliya,Central,Hiking,6.906,80.503,Hilly,2.5,4.6,120.6913,3,Hatton Area
+64,Castlereagh Reservoir,Hatton,Central,Relax,6.834,80.536,Paved,2.5,4.5,138.5075,3,Hatton Area
+65,Maussakelle Reservoir,Maskeliya,Central,Relax,6.809,80.487,Paved,2.5,4.5,142.79160000000002,3,Hatton Area
+66,Adam’s Peak (Sri Pada) via Nallathanniya,Nallathanniya,Central,Hiking,6.809,80.499,Hilly,6.0,4.8,142.7996,3,Hatton Area
+67,Nuwara Eliya Golf Club,Nuwara Eliya,Central,Relax,6.97,80.766,Paved,3.0,4.5,159.1706,9,Nuwara Eliya
+68,Gregory Lake Boating,Nuwara Eliya,Central,Adventure,6.967,80.782,Paved,2.0,4.5,160.5404,9,Nuwara Eliya
+69,Single Tree Hill Viewpoint,Nanu Oya,Central,Hiking,6.966,80.767,Hilly,2.0,4.5,158.57139999999998,9,Nuwara Eliya
+70,Kande Ela Reservoir,Nuwara Eliya,Central,Nature,6.938,80.787,Paved,2.0,4.4,159.72670000000002,9,Nuwara Eliya
+71,Nuwara Eliya Central Market,Nuwara Eliya,Central,Culture,6.971,80.764,Paved,1.0,4.3,159.3275,9,Nuwara Eliya
+72,Kandy War Cemetery,Kandy,Central,History,7.287,80.647,Paved,1.0,4.4,118.4397,14,Kandy Area
+73,Galmaduwa Viharaya (Temple),Kundasale,Central,History,7.329,80.67,Hilly,1.5,4.4,118.9682,14,Kandy Area
+74,Wales Park (Royal Palace Park),Kandy,Central,Park,7.291,80.638,Paved,1.5,4.5,117.0517,14,Kandy Area
+75,Ceylon Tea Trails Lookouts,Hatton,Central,Relax,6.826,80.541,Paved,2.5,4.6,142.3319,3,Hatton Area
+76,Taylor’s Seat Viewpoint,Maskeliya,Central,Viewpoint,6.834,80.51,Hilly,1.5,4.5,142.6117,3,Hatton Area
+1,Jaya Sri Maha Bodhi,Anuradhapura,North Central,Religious,8.3335,80.403,Paved,1.5,4.9,187.4801,2,Anuradhapura
+2,Ruwanweliseya Stupa,Anuradhapura,North Central,Religious,8.3505,80.4038,Paved,2.0,4.9,189.9865,2,Anuradhapura
+3,Jetavanaramaya Stupa,Anuradhapura,North Central,History,8.3385,80.4025,Paved,2.0,4.8,187.6134,2,Anuradhapura
+4,Abhayagiri Stupa,Anuradhapura,North Central,History,8.372,80.402,Paved,2.0,4.7,191.2261,2,Anuradhapura
+5,Thuparamaya Dagoba,Anuradhapura,North Central,Religious,8.3567,80.4019,Paved,1.5,4.7,189.7633,2,Anuradhapura
+6,Mirisawetiya Stupa,Anuradhapura,North Central,History,8.357,80.394,Paved,1.5,4.6,189.0627,2,Anuradhapura
+7,Isurumuniya Viharaya,Anuradhapura,North Central,Religious,8.329,80.4035,Paved,1.5,4.7,187.6509,2,Anuradhapura
+8,Kuttam Pokuna (Twin Ponds),Anuradhapura,North Central,History,8.3739,80.3985,Paved,1.5,4.6,191.6463,2,Anuradhapura
+9,Samadhi Buddha Statue,Anuradhapura,North Central,History,8.36,80.408,Paved,1.0,4.6,190.9169,2,Anuradhapura
+10,Anuradhapura Archaeological Museum,Anuradhapura,North Central,Museum,8.3395,80.405,Paved,1.5,4.6,187.798,2,Anuradhapura
+11,Ranmasu Uyana (Royal Gardens),Anuradhapura,North Central,History,8.331,80.398,Paved,1.5,4.5,187.0901,2,Anuradhapura
+12,Vessagiriya Ruins,Anuradhapura,North Central,History,8.323,80.396,Off-Road,1.5,4.5,185.9354,2,Anuradhapura
+13,Lovamahapaya (Brazen Palace) Ruins,Anuradhapura,North Central,History,8.345,80.4035,Paved,1.0,4.5,189.3027,2,Anuradhapura
+14,Eth Pokuna (Elephant Pond),Anuradhapura,North Central,History,8.374,80.399,Paved,1.0,4.5,191.5903,2,Anuradhapura
+15,Queen’s Pavilion Ruins,Anuradhapura,North Central,History,8.337,80.406,Paved,1.0,4.4,187.8689,2,Anuradhapura
+16,Moonstone (Sandakada Pahana) - Anuradhapura,Anuradhapura,North Central,History,8.3405,80.4045,Paved,0.8,4.5,187.903,2,Anuradhapura
+17,Abhayagiri Monastery Complex,Anuradhapura,North Central,History,8.3715,80.401,Paved,2.0,4.6,191.2215,2,Anuradhapura
+18,Il Pansala (Image House) at Thuparama,Anuradhapura,North Central,History,8.3562,80.4022,Paved,1.0,4.5,189.7299,2,Anuradhapura
+19,Tissa Wewa Lake,Anuradhapura,North Central,Relax,8.333,80.397,Paved,2.0,4.5,186.8199,2,Anuradhapura
+20,Nuwara Wewa Lake,Anuradhapura,North Central,Relax,8.33,80.425,Paved,2.0,4.4,189.7328,2,Anuradhapura
+21,Basawakkulama (Abhaya Wewa),Anuradhapura,North Central,Nature,8.364,80.384,Paved,1.5,4.5,190.5551,2,Anuradhapura
+22,Nachchaduwa Wewa,Anuradhapura,North Central,Nature,8.283,80.525,Off-Road,2.5,4.4,184.5371,2,Anuradhapura
+23,Kala Wewa Reservoir,Kalawewa,North Central,Nature,8.1,80.5,Off-Road,2.5,4.6,165.8431,2,Anuradhapura
+24,Aukana Buddha Statue,Aukana,North Central,History,8.073,80.506,Paved,1.5,4.8,165.694,2,Anuradhapura
+25,Vijithapura Ruins,Mihintale,North Central,History,8.352,80.517,Paved,1.5,4.5,190.4079,2,Anuradhapura
+26,Thanthirimale Rajamaha Viharaya,Thanthirimale,North Central,Religious,8.504,80.321,Off-Road,2.5,4.6,211.3709,2,Anuradhapura
+27,Mihintale Aradhana Gala Summit,Mihintale,North Central,Hiking,8.37,80.51,Hilly,2.0,4.7,192.0098,2,Anuradhapura
+28,Mihintale Ambasthala Stupa,Mihintale,North Central,Religious,8.356,80.514,Hilly,1.5,4.7,190.9115,2,Anuradhapura
+29,Kantaka Chetiya,Mihintale,North Central,History,8.368,80.517,Hilly,1.5,4.6,192.4737,2,Anuradhapura
+30,Kaludiya Pokuna (Mihintale),Mihintale,North Central,Nature,8.348,80.52,Off-Road,2.0,4.6,190.6957,2,Anuradhapura
+31,Naga Pokuna (Mihintale),Mihintale,North Central,Nature,8.357,80.516,Hilly,1.5,4.5,191.2966,2,Anuradhapura
+32,Mihintale Ancient Hospital,Mihintale,North Central,History,8.358,80.513,Paved,1.0,4.5,190.9111,2,Anuradhapura
+33,Mihintale Maha Seya,Mihintale,North Central,Religious,8.367,80.52,Hilly,1.5,4.6,192.9433,2,Anuradhapura
+34,Mihintale Alms Hall Ruins,Mihintale,North Central,History,8.3575,80.5135,Paved,1.0,4.4,191.2917,2,Anuradhapura
+35,Ritigala Strict Nature Reserve,Ritigala,North Central,Hiking,8.118,80.699,Hilly,3.0,4.7,173.1356,6,Dambulla Area
+36,Ritigala Monastic Ruins,Ritigala,North Central,History,8.121,80.702,Off-Road,2.0,4.6,173.7764,6,Dambulla Area
+37,Hurulu Eco Park,Habarana,North Central,Safari,8.029,80.751,Off-Road,4.0,4.6,153.4606,6,Dambulla Area
+38,Habarana Lake,Habarana,North Central,Relax,8.047,80.748,Paved,1.5,4.5,156.2119,6,Dambulla Area
+39,Rajanganaya Dam,Rajanganaya,North Central,Architecture,8.152,80.226,Paved,1.5,4.4,170.016,2,Anuradhapura
+40,Wilpattu National Park (Hunuwilagama Gate),Nochchiyagama,North Central,Safari,8.457,79.996,Off-Road,6.0,4.8,227.0561,11,Talaimannar Area
+41,Awkana Reservoir Viewpoint,Aukana,North Central,Viewpoint,8.077,80.502,Paved,1.0,4.4,164.2223,2,Anuradhapura
+42,Avukana Heritage Museum,Aukana,North Central,Museum,8.074,80.505,Paved,1.0,4.4,164.328,2,Anuradhapura
+43,Anuradhapura New Town Market Walk,Anuradhapura,North Central,Culture,8.335,80.41,Paved,1.0,4.3,188.5504,2,Anuradhapura
+44,Isinbassagala Rajamaha Vihara,Medawachchiya,North Central,Religious,8.535,80.513,Paved,1.5,4.4,213.0043,2,Anuradhapura
+46,Parakrama Samudraya,Polonnaruwa,North Central,Nature,7.934,81.017,Paved,2.5,4.7,200.5103,6,Dambulla Area
+47,Polonnaruwa Archaeological Museum,Polonnaruwa,North Central,Museum,7.9385,81.0019,Paved,1.5,4.6,198.1616,6,Dambulla Area
+48,King Parakramabahu’s Royal Palace,Polonnaruwa,North Central,History,7.941,81.001,Paved,1.5,4.7,197.7877,6,Dambulla Area
+49,Council Chamber (Audience Hall),Polonnaruwa,North Central,History,7.9415,81.0015,Paved,1.0,4.6,197.8244,6,Dambulla Area
+50,Quadrangle (Dalada Maluwa),Polonnaruwa,North Central,History,7.9402,81.0006,Paved,2.0,4.8,197.8368,6,Dambulla Area
+51,Polonnaruwa Vatadage,Polonnaruwa,North Central,History,7.9403,81.0005,Paved,1.0,4.8,197.8259,6,Dambulla Area
+52,Nissanka Latha Mandapaya,Polonnaruwa,North Central,History,7.9406,81.0007,Paved,0.8,4.7,197.7957,6,Dambulla Area
+53,Hatadage Shrine,Polonnaruwa,North Central,History,7.9401,81.0004,Paved,0.8,4.6,197.8482,6,Dambulla Area
+54,Atadage Shrine,Polonnaruwa,North Central,History,7.94,81.0003,Paved,0.8,4.6,197.9936,6,Dambulla Area
+55,Gal Potha (Stone Book),Polonnaruwa,North Central,History,7.9407,81.0006,Paved,0.8,4.6,197.7842,6,Dambulla Area
+56,Sathmahal Prasada,Polonnaruwa,North Central,History,7.9463,80.9975,Paved,1.0,4.6,197.2207,6,Dambulla Area
+57,Rankoth Vehera,Polonnaruwa,North Central,History,7.9488,80.9956,Paved,1.5,4.7,196.8232,6,Dambulla Area
+58,Kiri Vehera,Polonnaruwa,North Central,History,7.95,80.996,Paved,1.0,4.6,196.4912,6,Dambulla Area
+59,Lankatilaka Image House,Polonnaruwa,North Central,History,7.948,80.9955,Paved,1.5,4.7,196.9108,6,Dambulla Area
+60,Gal Vihara,Polonnaruwa,North Central,History,7.9435,81.0026,Paved,1.5,4.9,198.2146,6,Dambulla Area
+61,Tivanka Image House,Polonnaruwa,North Central,History,7.955,80.9985,Paved,1.5,4.7,196.1133,6,Dambulla Area
+62,Nelum Pokuna (Lotus Pond),Polonnaruwa,North Central,History,7.9515,80.9949,Paved,1.0,4.6,195.714,6,Dambulla Area
+63,Demala Maha Seya,Polonnaruwa,North Central,History,7.9597,80.992,Off-Road,1.5,4.4,195.1843,6,Dambulla Area
+64,Pothgul Viharaya,Polonnaruwa,North Central,History,7.933,81.002,Paved,1.0,4.6,198.7618,6,Dambulla Area
+65,Shiva Devale No. 1,Polonnaruwa,North Central,History,7.941,81.001,Paved,0.8,4.5,197.7877,6,Dambulla Area
+66,Shiva Devale No. 2,Polonnaruwa,North Central,History,7.9413,81.0008,Paved,0.8,4.5,197.7657,6,Dambulla Area
+67,Parakrama Bahu Statue,Polonnaruwa,North Central,History,7.9315,81.006,Paved,0.8,4.6,199.4054,6,Dambulla Area
+68,Kumara Pokuna (Royal Bath),Polonnaruwa,North Central,History,7.9395,81.002,Paved,0.8,4.5,198.1035,6,Dambulla Area
+69,Sudden Viewpoint of Parakrama Samudraya,Polonnaruwa,North Central,Viewpoint,7.936,81.015,Paved,1.0,4.5,199.9897,6,Dambulla Area
+70,Medirigiriya Vatadage,Medirigiriya,North Central,History,8.127,80.963,Paved,1.5,4.7,187.7221,6,Dambulla Area
+71,Giritale Wewa,Giritale,North Central,Nature,7.997,80.935,Paved,2.0,4.6,186.8934,6,Dambulla Area
+72,Giritale Forest Reserve,Giritale,North Central,Nature,7.999,80.938,Off-Road,2.5,4.5,187.3463,6,Dambulla Area
+73,Minneriya National Park,Minneriya,North Central,Safari,8.031,80.821,Off-Road,6.0,4.8,162.53779999999998,6,Dambulla Area
+74,Kaudulla National Park,Kaudulla,North Central,Safari,8.138,80.904,Off-Road,6.0,4.7,181.3469,6,Dambulla Area
+75,Somawathiya National Park,Somawathiya,North Central,Safari,8.146,81.097,Off-Road,6.0,4.6,204.7463,6,Dambulla Area
+76,Angammedilla National Park,Angammedilla,North Central,Nature,7.979,80.868,Off-Road,4.0,4.6,193.1069,6,Dambulla Area
+77,Maduru Oya National Park (Polonnaruwa Sector),Aralaganwila,North Central,Safari,7.695,81.22,Off-Road,6.0,4.6,242.8678,6,Dambulla Area
+78,Diyabeduma Waterfall,Aralaganwila,North Central,Nature,8.045,81.12,Hilly,2.0,4.4,207.0484,6,Dambulla Area
+79,Manampitiya Bridge,Manampitiya,North Central,Architecture,8.196,81.062,Paved,1.0,4.3,205.3401,6,Dambulla Area
+80,Habarana Elephant Watch & Village Walk,Habarana,North Central,Culture,8.048,80.745,Off-Road,2.5,4.5,156.26,6,Dambulla Area
+81,Mahaweli River Viewpoint - Somawathiya,Somawathiya,North Central,Viewpoint,8.16,81.11,Off-Road,1.5,4.4,204.7463,6,Dambulla Area
+82,Diyabubula Eco Area (Habarana side),Habarana,North Central,Nature,8.04,80.76,Off-Road,2.0,4.4,155.25920000000002,6,Dambulla Area
+83,Hathikuchchi Archaeological Site,Anuradhapura,North Central,History,7.989,80.482,Off-Road,2.0,4.5,148.559,2,Anuradhapura
+84,Ederagala Wewa View,Habarana,North Central,Relax,8.06,80.752,Paved,1.0,4.3,159.15679999999998,6,Dambulla Area
+85,Awkana Lake Sunset Point,Aukana,North Central,Viewpoint,8.071,80.5065,Paved,1.0,4.5,165.6294,2,Anuradhapura
+86,Kalankuttiya Wewa,Medawachchiya,North Central,Nature,8.615,80.545,Off-Road,2.0,4.3,223.3746,2,Anuradhapura
+87,Nelumkulama Tank & Birding,Nelumkulama,North Central,Birding,8.453,80.367,Off-Road,2.5,4.4,212.5216,2,Anuradhapura
+88,Thammannakulama Tank Anuradhapura,Anuradhapura,North Central,Nature,8.367,80.388,Paved,1.5,4.4,191.1788,2,Anuradhapura
+89,Keeriyankalliya Lake Edge,Polonnaruwa,North Central,Relax,7.95,81.04,Paved,1.5,4.3,204.4404,6,Dambulla Area
+90,One Tree Hill View (Polonnaruwa North),Polonnaruwa,North Central,Viewpoint,7.96,81.015,Hilly,1.2,4.3,198.9461,6,Dambulla Area
+1,Galle Dutch Fort,Galle,Southern,History,6.027,80.217,Paved,3.0,4.9,159.96120000000002,8,Galle Area
+2,Galle Lighthouse,Galle,Southern,History,6.022,80.216,Paved,1.0,4.8,160.2353,8,Galle Area
+3,National Maritime Museum,Galle,Southern,Museum,6.026,80.216,Paved,1.5,4.6,160.0839,8,Galle Area
+4,Dutch Reformed Church (Groote Kerk),Galle,Southern,History,6.026,80.217,Paved,1.0,4.6,160.0201,8,Galle Area
+5,All Saints Church,Galle,Southern,History,6.025,80.216,Paved,1.0,4.5,160.133,8,Galle Area
+6,Old Dutch Hospital Shopping Precinct,Galle,Southern,Shopping,6.024,80.214,Paved,1.5,4.5,160.0851,8,Galle Area
+7,Galle Fort Ramparts & Clock Tower,Galle,Southern,History,6.03,80.216,Paved,1.5,4.6,159.4205,8,Galle Area
+8,Galle National Museum,Galle,Southern,Museum,6.025,80.217,Paved,1.5,4.5,160.127,8,Galle Area
+9,Unawatuna Beach,Unawatuna,Southern,Beach,6.012,80.246,Paved,3.0,4.7,158.7562,8,Galle Area
+10,Jungle Beach (Rumassala),Rumassala,Southern,Nature,6.01,80.246,Off-Road,2.5,4.7,158.9255,8,Galle Area
+11,Japanese Peace Pagoda,Rumassala,Southern,Religious,6.0086,80.2482,Hilly,1.5,4.6,158.75060000000002,8,Galle Area
+12,Yatagala Rajamaha Viharaya,Unawatuna,Southern,Religious,6.022,80.263,Hilly,1.5,4.6,159.14270000000002,8,Galle Area
+13,Dalawella Beach,Dalawella,Southern,Beach,6.005,80.262,Paved,3.0,4.6,160.7501,8,Galle Area
+14,Mihiripenna Beach,Mihiripenna,Southern,Beach,6.0,80.266,Paved,3.0,4.5,160.7864,8,Galle Area
+15,Thalpe Beach,Thalpe,Southern,Beach,5.992,80.293,Paved,3.0,4.5,163.92329999999998,8,Galle Area
+16,Koggala Beach,Koggala,Southern,Beach,5.99,80.322,Paved,3.0,4.6,167.15220000000002,8,Galle Area
+17,Koggala Lake,Koggala,Southern,Nature,5.994,80.345,Off-Road,2.5,4.6,169.8284,8,Galle Area
+18,Martin Wickramasinghe Folk Museum,Koggala,Southern,Museum,5.993,80.319,Paved,1.5,4.6,166.82770000000002,8,Galle Area
+19,Habaraduwa Sea Turtle Hatchery,Habaraduwa,Southern,Nature,6.0,80.322,Paved,1.5,4.6,167.3963,8,Galle Area
+20,Handunugoda Tea Estate (Virgin White Tea),Ahangama,Southern,Museum,5.966,80.356,Hilly,2.0,4.7,171.6732,8,Galle Area
+21,Ahangama Beach,Ahangama,Southern,Beach,5.973,80.385,Paved,3.0,4.5,175.4214,8,Galle Area
+22,Midigama Beach,Midigama,Southern,Beach,5.956,80.406,Paved,3.0,4.5,178.152,15,Matara Area
+23,Kathaluwa Old Temple,Kathaluwa,Southern,Religious,5.987,80.342,Paved,1.5,4.5,170.5541,8,Galle Area
+24,Hikkaduwa Beach,Hikkaduwa,Southern,Beach,6.14,80.1,Paved,3.0,4.6,148.4437,8,Galle Area
+25,Hikkaduwa Coral Sanctuary,Hikkaduwa,Southern,Nature,6.139,80.103,Off-Road,2.0,4.6,148.10420000000002,8,Galle Area
+26,Hikkaduwa National Park,Hikkaduwa,Southern,Nature,6.139,80.102,Off-Road,3.0,4.6,148.3272,8,Galle Area
+27,Seenigama Devalaya,Seenigama,Southern,Religious,6.152,80.1,Paved,1.0,4.5,149.8284,8,Galle Area
+28,Dodanduwa Lake,Dodanduwa,Southern,Nature,6.1,80.082,Off-Road,2.0,4.4,148.8912,8,Galle Area
+29,Kosgoda Turtle Conservation Project,Kosgoda,Southern,Nature,6.35,80.03,Paved,2.0,4.6,124.541,8,Galle Area
+30,Madu River Safari,Balapitiya,Southern,Adventure,6.345,80.034,Off-Road,3.0,4.6,124.7607,8,Galle Area
+31,Maduganga Islands Birding,Balapitiya,Southern,Birding,6.34,80.04,Off-Road,2.5,4.5,125.9442,8,Galle Area
+32,Dewata Surf Point,Dewata,Southern,Adventure,6.016,80.236,Paved,2.5,4.5,158.50039999999998,8,Galle Area
+33,Rumassala Sanjeewani Hill Viewpoint,Rumassala,Southern,Viewpoint,6.009,80.246,Hilly,1.5,4.6,158.9394,8,Galle Area
+34,Pitiwella Beach,Pitiwella,Southern,Beach,6.074,80.191,Paved,2.5,4.4,153.30020000000002,8,Galle Area
+35,Boossa Beach,Boossa,Southern,Beach,6.071,80.187,Paved,2.5,4.4,153.4906,8,Galle Area
+36,Rathgama Lake,Rathgama,Southern,Nature,6.088,80.172,Off-Road,2.0,4.4,148.657,8,Galle Area
+37,Matara Fort,Matara,Southern,History,5.948,80.546,Paved,1.5,4.6,190.0398,15,Matara Area
+38,Star Fort,Matara,Southern,History,5.949,80.548,Paved,1.5,4.6,189.9773,15,Matara Area
+39,Parevi Duwa Temple,Matara,Southern,Religious,5.939,80.551,Paved,1.0,4.6,190.8122,15,Matara Area
+40,Matara Beach,Matara,Southern,Beach,5.942,80.552,Paved,3.0,4.5,190.8983,15,Matara Area
+41,Polhena Beach,Polhena,Southern,Beach,5.936,80.521,Paved,3.0,4.6,191.1881,15,Matara Area
+42,Madiha Beach,Madiha,Southern,Beach,5.93,80.508,Paved,3.0,4.5,190.7969,15,Matara Area
+43,Mirissa Beach,Mirissa,Southern,Beach,5.943,80.457,Paved,3.0,4.7,183.1527,15,Matara Area
+44,Mirissa Whale Watching,Mirissa,Southern,Adventure,5.943,80.457,Off-Road,4.0,4.8,183.1527,15,Matara Area
+45,Coconut Tree Hill,Mirissa,Southern,Viewpoint,5.935,80.451,Hilly,1.5,4.7,183.3026,15,Matara Area
+46,Secret Beach Mirissa,Mirissa,Southern,Beach,5.94,80.443,Paved,2.5,4.6,183.5929,15,Matara Area
+47,Weligama Bay Beach,Weligama,Southern,Beach,5.972,80.429,Paved,3.0,4.6,178.1081,15,Matara Area
+48,Taprobane Island Viewpoint,Weligama,Southern,Viewpoint,5.974,80.423,Paved,1.0,4.5,178.2085,15,Matara Area
+49,Kushtarajagala Statue,Weligama,Southern,History,5.977,80.429,Paved,1.0,4.5,177.3174,15,Matara Area
+50,Weherahena Poorwarama Temple,Matara,Southern,Religious,5.943,80.579,Paved,2.0,4.6,194.3569,15,Matara Area
+51,Dondra Head Lighthouse,Devinuwara,Southern,History,5.918,80.589,Paved,1.5,4.7,197.1348,15,Matara Area
+52,Devinuwara Vishnu Devalaya,Devinuwara,Southern,Religious,5.919,80.588,Paved,1.5,4.6,197.048,15,Matara Area
+53,Dondra Beach,Devinuwara,Southern,Beach,5.915,80.592,Paved,3.0,4.5,197.1389,15,Matara Area
+54,Talalla Beach,Talalla,Southern,Beach,5.939,80.617,Paved,3.0,4.6,204.3039,15,Matara Area
+55,Nilwella Beach,Nilwella,Southern,Beach,5.95,80.691,Paved,3.0,4.5,211.4247,15,Matara Area
+56,Hummanaya Blowhole,Kudawella,Southern,Nature,5.951,80.7,Off-Road,1.5,4.7,213.5503,15,Matara Area
+57,Hiriketiya Beach,Dikwella,Southern,Beach,5.939,80.714,Paved,3.0,4.7,215.4616,15,Matara Area
+58,Dikwella Beach,Dikwella,Southern,Beach,5.938,80.706,Paved,3.0,4.6,214.0172,15,Matara Area
+59,Kirala Kelle Wetland,Matara,Southern,Nature,5.965,80.522,Off-Road,2.0,4.4,186.0368,15,Matara Area
+60,Gandara Bay Beach,Gandara,Southern,Beach,5.904,80.609,Paved,2.5,4.4,197.2994,15,Matara Area
+61,Thalaramba Beach,Thalaramba,Southern,Beach,5.94,80.469,Paved,2.5,4.5,184.2753,15,Matara Area
+62,Kottegoda Beach,Kottegoda,Southern,Beach,5.912,80.649,Paved,2.5,4.4,204.6133,15,Matara Area
+63,Tangalle Beach,Tangalle,Southern,Beach,6.022,80.793,Paved,3.0,4.6,218.2545,15,Matara Area
+64,Medaketiya Beach,Tangalle,Southern,Beach,6.018,80.798,Paved,3.0,4.5,218.6582,15,Matara Area
+65,Goyambokka Beach,Tangalle,Southern,Beach,6.027,80.773,Paved,3.0,4.6,216.1217,15,Matara Area
+66,Silent Beach,Tangalle,Southern,Beach,6.037,80.781,Paved,3.0,4.6,215.4761,15,Matara Area
+67,Rekawa Turtle Beach,Rekawa,Southern,Nature,6.042,80.87,Off-Road,3.0,4.7,233.4596,15,Matara Area
+68,Kalametiya Bird Sanctuary,Kalametiya,Southern,Birding,6.075,80.938,Off-Road,3.0,4.6,236.4813,15,Matara Area
+69,Ridiyagama Safari Park,Ridiyagama,Southern,Safari,6.193,80.925,Off-Road,4.0,4.5,236.8072,15,Matara Area
+70,Dry Zone Botanic Gardens (Mirijjawila),Hambantota,Southern,Nature,6.126,81.103,Paved,2.5,4.6,273.6927,16,Hambantota Area
+71,Hambantota Birds Park & Safari,Hambantota,Southern,Birding,6.125,81.129,Paved,3.0,4.4,275.5467,16,Hambantota Area
+72,Bundala National Park,Bundala,Southern,Safari,6.204,81.18,Off-Road,6.0,4.7,281.2437,16,Hambantota Area
+73,Tissamaharama Raja Maha Vihara,Tissamaharama,Southern,Religious,6.285,81.283,Paved,1.5,4.6,284.0685,16,Hambantota Area
+74,Yatala Vehera,Tissamaharama,Southern,History,6.283,81.284,Paved,1.5,4.6,284.2067,16,Hambantota Area
+75,Tissa Wewa Lake,Tissamaharama,Southern,Relax,6.286,81.295,Paved,2.0,4.5,285.4508,16,Hambantota Area
+76,Debarawewa Lake,Debarawewa,Southern,Nature,6.275,81.288,Off-Road,2.0,4.4,285.1997,16,Hambantota Area
+77,Weerawila Lake,Weerawila,Southern,Nature,6.253,81.152,Off-Road,2.0,4.4,269.8433,16,Hambantota Area
+78,Kirinda Beach & Vihara,Kirinda,Southern,Beach,6.373,81.33,Paved,2.5,4.5,296.5531,16,Hambantota Area
+79,Lunugamvehera National Park,Lunugamvehera,Southern,Safari,6.513,81.075,Off-Road,6.0,4.6,294.7281,16,Hambantota Area
+80,Yala National Park (Palatupana Gate),Palatupana,Southern,Safari,6.4,81.52,Off-Road,6.0,4.8,321.194,16,Hambantota Area
+81,Sithulpawwa Rajamaha Viharaya,Yala,Southern,Religious,6.406,81.215,Off-Road,2.5,4.7,288.5324,16,Hambantota Area
+82,Walawe River Safari,Ambalantota,Southern,Adventure,6.16,80.923,Off-Road,3.0,4.5,234.9883,15,Matara Area
+83,Ussangoda National Park,Ambalantota,Southern,Nature,6.114,80.905,Off-Road,2.5,4.6,232.5126,15,Matara Area
+84,Hambantota Sand Dunes,Hambantota,Southern,Nature,6.132,81.112,Off-Road,2.0,4.4,272.1947,16,Hambantota Area
+85,Mahapelessa (Madunagala) Hot Springs,Sooriyawewa,Southern,Nature,6.278,80.934,Off-Road,1.5,4.5,251.3839,9,Nuwara Eliya
+86,Tangalle Lagoon,Tangalle,Southern,Nature,6.027,80.79,Off-Road,2.0,4.4,217.2622,15,Matara Area
+87,Magampura Port Viewpoint,Hambantota,Southern,Architecture,6.119,81.121,Paved,1.0,4.3,275.79290000000003,16,Hambantota Area
+88,Bundala Embilikala Lagoon,Bundala,Southern,Birding,6.205,81.16,Off-Road,2.5,4.6,281.6632,16,Hambantota Area
+89,Palatupana Beach,Palatupana,Southern,Beach,6.39,81.534,Paved,2.5,4.4,321.7971,16,Hambantota Area
+90,Tissamaharama Archaeological Museum,Tissamaharama,Southern,Museum,6.285,81.282,Paved,1.5,4.5,283.9473,16,Hambantota Area
+1,Nine Arches Bridge,Ella,Uva,Adventure,6.8768,81.0608,Hilly,1.5,4.8,236.1411,0,Ella
+2,Ella Rock,Ella,Uva,Hiking,6.8561,81.045,Hilly,5.0,4.7,230.7971,0,Ella
+3,Little Adam's Peak,Ella,Uva,Hiking,6.862,81.048,Hilly,3.0,4.8,235.954,0,Ella
+4,Ravana Falls,Ella,Uva,Nature,6.818,81.061,Paved,1.5,4.7,235.337,0,Ella
+5,Ravana Cave,Ella,Uva,History,6.816,81.056,Hilly,1.5,4.5,235.337,0,Ella
+6,Demodara Railway Loop & Station,Demodara,Uva,History,6.881,81.054,Paved,1.5,4.7,234.8972,0,Ella
+7,Kithal Ella Falls,Kithal Ella,Uva,Nature,6.854,81.063,Hilly,1.5,4.5,237.8716,0,Ella
+8,Dowa Rajamaha Viharaya,Bandarawela,Uva,Religious,6.85,80.99,Paved,1.5,4.6,225.3239,0,Ella
+9,Dunhinda Falls,Badulla,Uva,Hiking,7.045,81.063,Hilly,2.5,4.7,220.4158,0,Ella
+10,Bogoda Wooden Bridge,Kataragama? (Bogoda),Uva,History,7.023,81.032,Off-Road,1.5,4.6,230.8653,0,Ella
+11,Namunukula Mountain Range,Passara,Uva,Hiking,7.04,81.098,Hilly,5.0,4.7,267.6336,0,Ella
+12,Fox Hill Viewpoint,Diyatalawa,Uva,Viewpoint,6.797,80.959,Paved,1.5,4.5,217.2268,0,Ella
+13,Idalgashinna Station & Ridge Walk,Idalgashinna,Uva,Hiking,6.773,80.92,Hilly,2.5,4.6,217.9364,9,Nuwara Eliya
+14,Haputale Town View,Haputale,Uva,Viewpoint,6.768,80.963,Paved,1.0,4.5,212.511,0,Ella
+15,Lipton's Seat,Dambatenne,Uva,Viewpoint,6.767,80.87,Hilly,2.0,4.8,199.9351,9,Nuwara Eliya
+16,Dambatenne Tea Factory,Dambatenne,Uva,Museum,6.772,80.892,Paved,1.5,4.6,204.0414,9,Nuwara Eliya
+17,Thangamale Sanctuary,Haputale,Uva,Nature,6.774,80.9,Off-Road,2.0,4.5,205.0877,9,Nuwara Eliya
+18,Diyaluma Falls,Koslanda,Uva,Hiking,6.766,81.03,Hilly,3.0,4.8,226.0872,0,Ella
+19,Upper Diyaluma Pools,Koslanda,Uva,Hiking,6.756,81.032,Hilly,2.5,4.7,226.3819,0,Ella
+20,Pilkington Point (Poonagala),Poonagala,Uva,Viewpoint,6.749,81.014,Hilly,1.5,4.6,222.2057,0,Ella
+21,Kukulugala Peak,Bandarawela,Uva,Hiking,6.79,80.91,Hilly,3.0,4.5,221.4183,9,Nuwara Eliya
+22,Flying Ravana Mega Zipline,Ella,Uva,Adventure,6.871,81.061,Paved,1.5,4.7,235.5205,0,Ella
+23,St. Mark's Church,Badulla,Uva,History,6.989,81.06,Paved,1.0,4.4,250.5672,0,Ella
+24,Welekade Market (Old Dutch Market),Badulla,Uva,History,6.9895,81.059,Paved,1.0,4.4,250.3785,0,Ella
+25,Bogoda Forest Monastery,Bogoda,Uva,Religious,7.025,81.03,Off-Road,1.5,4.5,256.5374,0,Ella
+26,Narangala Mountain,Hali Ela,Uva,Hiking,7.038,81.06,Hilly,4.0,4.7,221.462,0,Ella
+27,Peessa Ella Falls,Passara,Uva,Nature,7.034,81.12,Hilly,2.0,4.5,266.72459999999995,0,Ella
+28,Gerandi Ella,Welimada,Uva,Nature,7.03,81.02,Hilly,2.0,4.4,256.145,0,Ella
+29,Sthripura Cave,Welimada,Uva,History,7.06,80.91,Off-Road,1.5,4.4,189.3185,0,Ella
+30,Sorabora Wewa,Mahiyanganaya,Uva,Nature,7.206,81.053,Paved,2.0,4.6,203.4305,0,Ella
+31,Mahiyangana Raja Maha Vihara,Mahiyanganaya,Uva,Religious,7.354,80.999,Paved,1.5,4.7,187.25420000000005,0,Ella
+32,Mapakada Lake,Mahiyanganaya,Uva,Nature,7.34,81.03,Paved,2.0,4.5,190.0693,0,Ella
+33,Dambana Vedda Cultural Village,Dambana,Uva,Culture,7.41,81.1,Off-Road,2.5,4.6,206.4555,0,Ella
+34,Loggal Oya Reservoir,Rikillagaskada/Uva side,Uva,Nature,7.28,80.98,Paved,2.0,4.5,192.8489,0,Ella
+35,Randenigala Dam Viewpoint,Mahiyanganaya,Uva,Architecture,7.286,80.972,Paved,1.5,4.5,190.6373,0,Ella
+36,Halpewatte Tea Factory (Uva),Halpe,Uva,Museum,6.87,81.081,Paved,1.5,4.6,240.1855,0,Ella
+37,Bambarakanda Falls (Uva side),Kalupahana,Uva,Nature,6.772,80.87,Hilly,2.0,4.8,201.7208,9,Nuwara Eliya
+38,Ohiya Railway Station,Ohiya,Uva,History,6.81,80.953,Paved,1.0,4.5,220.5969,0,Ella
+39,Devil’s Staircase Trail,Ohiya,Uva,Hiking,6.812,80.946,Hilly,4.0,4.7,221.5985,0,Ella
+40,Boralanda Highland Dairy,Boralanda,Uva,Culture,6.82,80.912,Paved,1.5,4.4,225.0446,9,Nuwara Eliya
+41,Welimada Town View,Welimada,Uva,Viewpoint,6.945,80.941,Paved,1.0,4.3,189.5623,0,Ella
+42,Rawana Temple (New),Ella,Uva,Religious,6.865,81.06,Paved,1.0,4.4,235.845,0,Ella
+43,Nil Diya Pokuna Trailhead,Ella,Uva,Adventure,6.86,81.055,Off-Road,2.5,4.5,236.7927,0,Ella
+44,Halpe Temple Viewpoint,Halpe,Uva,Viewpoint,6.874,81.074,Paved,1.0,4.4,238.3676,0,Ella
+45,Kehelgamu Oya View (Uva edge),Haputale,Uva,Viewpoint,6.762,80.9,Paved,1.0,4.3,204.0047,9,Nuwara Eliya
+46,Wellawaya Town & Gabaraya Statue,Wellawaya,Uva,History,6.55,81.105,Paved,1.0,4.2,293.9472,16,Hambantota Area
+47,Handapanagala Lake,Wellawaya,Uva,Nature,6.62,81.05,Paved,2.0,4.5,242.0708,0,Ella
+48,Ellawala Falls,Wellawaya,Uva,Nature,6.51,81.04,Off-Road,1.5,4.5,224.2228,16,Hambantota Area
+49,Buduruwagala Ancient Rock Carvings,Wellawaya,Uva,History,6.386,81.033,Off-Road,1.5,4.8,262.57,16,Hambantota Area
+50,Maligawila Buddha Statue,Buttala,Uva,History,6.402,81.133,Paved,1.5,4.7,276.6229,16,Hambantota Area
+51,Dambegoda Bodhisattva Statue,Buttala,Uva,History,6.4,81.135,Paved,1.5,4.6,276.1892,16,Hambantota Area
+52,Yudaganawa Chaitya,Buttala,Uva,History,6.403,81.073,Paved,1.5,4.6,275.5867,16,Hambantota Area
+53,Biso Pokuna (Queen’s Bath),Buttala,Uva,History,6.405,81.075,Paved,1.0,4.5,275.5867,16,Hambantota Area
+54,Kataragama Sacred City,Kataragama,Uva,Religious,6.42,81.33,Paved,2.0,4.8,304.7719,16,Hambantota Area
+55,Kirivehera Stupa,Kataragama,Uva,Religious,6.422,81.332,Paved,1.5,4.7,304.5856,16,Hambantota Area
+56,Sella Kataragama Shrine,Sella Kataragama,Uva,Religious,6.43,81.33,Paved,1.5,4.6,304.6573,16,Hambantota Area
+57,Menik Ganga River Banks,Kataragama,Uva,Nature,6.418,81.335,Paved,1.5,4.5,302.1168,16,Hambantota Area
+58,Lunugamvehera National Park (Uva Sector),Lunugamvehera,Uva,Safari,6.513,81.075,Off-Road,6.0,4.6,294.7281,16,Hambantota Area
+59,Weheragala Reservoir,Tissamaharama/Uva edge,Uva,Nature,6.59,81.11,Paved,2.0,4.5,306.5596,16,Hambantota Area
+60,Kebiliththa Devalaya (Yala Forest),Buttala/Uva,Uva,Religious,6.45,81.35,Off-Road,4.0,4.6,307.3868,16,Hambantota Area
+61,Galge Yala Entrance (Block IV),Kataragama/Uva,Uva,Safari,6.46,81.32,Off-Road,6.0,4.6,309.6686,16,Hambantota Area
+62,Kumbukkan Oya River Bank,Siyambalanduwa/Uva,Uva,Nature,6.58,81.26,Off-Road,2.5,4.4,328.4354,16,Hambantota Area
+63,Govinda Hela (Westminster Abbey Rock),Siyambalanduwa,Uva,Hiking,6.827,81.345,Hilly,3.0,4.6,277.059,16,Hambantota Area
+64,Lahugala–Kitulana National Park (Uva side),Lahugala/Uva,Uva,Nature,6.843,81.426,Off-Road,3.0,4.5,289.6933,16,Hambantota Area
+65,Monaragala Town Viewpoint,Monaragala,Uva,Viewpoint,6.872,81.348,Paved,1.0,4.2,275.8301,16,Hambantota Area
+66,Yan Oya Kataragama Museum,Kataragama,Uva,Museum,6.42,81.3325,Paved,1.0,4.3,304.8124,16,Hambantota Area
+67,Etili Wewa Reservoir,Buttala,Uva,Nature,6.47,81.11,Paved,2.0,4.4,285.4086,16,Hambantota Area
+68,Kuda Oya Reservoir,Tanamalwila,Uva,Nature,6.42,81.03,Paved,2.0,4.4,215.1236,16,Hambantota Area
+69,Ethili Wewa Birding Point,Buttala,Uva,Birding,6.472,81.112,Off-Road,2.0,4.4,285.4086,16,Hambantota Area
+70,Mini World’s End (Madolsima),Madolsima,Uva,Viewpoint,7.189,81.147,Hilly,2.5,4.7,214.2267,0,Ella
+71,Ravana Lake View,Ella,Uva,Relax,6.845,81.065,Paved,1.0,4.3,241.3329,0,Ella
+72,Halpe Tea Experience Center,Halpe,Uva,Culture,6.8725,81.08,Paved,1.5,4.5,240.2994,0,Ella
+73,Rawana Spice Garden,Ella,Uva,Culture,6.854,81.06,Paved,1.0,4.3,237.8988,0,Ella
+74,Demodara Tunnel View,Ella/Uduwara,Uva,Viewpoint,6.883,81.052,Hilly,1.0,4.5,234.5679,0,Ella
+75,Udawalawe–Thanamalwila Scenic Road (Uva stretch),Thanamalwila,Uva,Viewpoint,6.45,81.03,Paved,1.5,4.2,217.4339,16,Hambantota Area
+76,Haldummulla Old Fort Ruins,Haldummulla,Uva,History,6.77,80.885,Off-Road,1.5,4.3,203.3723,9,Nuwara Eliya
+77,Kirigalpotta Approach via Ohiya,Ohiya/Uva,Uva,Hiking,6.8,80.95,Hilly,5.0,4.7,220.8441,0,Ella
+78,Welimada Strawberry Farms,Welimada,Uva,Culture,6.95,80.94,Paved,1.5,4.4,189.9993,0,Ella
+79,Demodara Tea Fields Panorama,Demodara,Uva,Viewpoint,6.88,81.058,Hilly,1.5,4.5,235.5719,0,Ella
+80,Passara Mini World’s End,Passara,Uva,Viewpoint,7.12,81.13,Hilly,2.0,4.5,230.7421,0,Ella
+81,Kirinda Oya Bridge (Uva side),Wellawaya/Uva,Uva,Architecture,6.61,81.055,Paved,1.0,4.2,243.653,0,Ella
+82,Rikillagaskada–Loggaloya Scenic Bank,Mahiyanganaya/Uva,Uva,Relax,7.27,80.99,Paved,1.5,4.3,192.4604,0,Ella
+83,Meedumpitiya Falls,Bandarawela,Uva,Nature,6.84,81.0,Hilly,1.5,4.3,224.0446,0,Ella
+84,Rawana Zipline View Cafe,Ella,Uva,Relax,6.872,81.0605,Paved,1.0,4.4,235.3928,0,Ella
+85,Kirchhayn Forest Patch,Haputale,Uva,Nature,6.77,80.905,Off-Road,2.0,4.3,205.8908,9,Nuwara Eliya
+1,Gangaramaya Temple,Colombo,Western,Religious,6.9149,79.8587,Paved,1.5,4.7,41.7377,4,Colombo
+2,Galle Face Green,Colombo,Western,Relax,6.9275,79.8447,Paved,2.0,4.6,40.6487,4,Colombo
+3,Independence Memorial Hall,Colombo,Western,History,6.9009,79.855,Paved,1.5,4.6,43.4356,4,Colombo
+4,National Museum of Colombo,Colombo,Western,Museum,6.9147,79.8578,Paved,2.0,4.7,41.63,4,Colombo
+5,Viharamahadevi Park,Colombo,Western,Park,6.9106,79.8608,Paved,2.0,4.5,41.3825,4,Colombo
+6,Colombo Lotus Tower,Colombo,Western,Architecture,6.9385,79.8551,Paved,1.5,4.6,38.3532,4,Colombo
+7,Pettah Market,Colombo,Western,Shopping,6.9395,79.8539,Paved,2.0,4.4,38.3031,4,Colombo
+8,Old Dutch Hospital Shopping Precinct,Colombo,Western,Shopping,6.933,79.8426,Paved,1.5,4.5,39.9249,4,Colombo
+9,Jami Ul-Alfar (Red Mosque),Colombo,Western,Religious,6.9373,79.8539,Paved,1.0,4.6,38.634,4,Colombo
+10,Wolvendaal Church,Colombo,Western,History,6.941,79.8587,Paved,1.0,4.5,37.6413,4,Colombo
+11,BMICH (Bandaranaike Memorial International Conference Hall),Colombo,Western,Culture,6.9065,79.8697,Paved,1.5,4.4,41.5265,4,Colombo
+12,Beira Lake Promenade,Colombo,Western,Relax,6.9262,79.8488,Paved,1.5,4.4,41.5556,4,Colombo
+13,Colombo Lighthouse,Colombo,Western,History,6.9396,79.8425,Paved,1.0,4.4,39.854,4,Colombo
+14,Old Parliament Building,Colombo,Western,History,6.9327,79.8437,Paved,1.0,4.5,40.0458,4,Colombo
+15,Sambodhi Chaithya,Colombo,Western,Religious,6.9399,79.8427,Paved,1.0,4.5,39.8699,4,Colombo
+16,National Art Gallery,Colombo,Western,Museum,6.9099,79.8604,Paved,1.5,4.4,41.344800000000006,4,Colombo
+17,Independence Arcade,Colombo,Western,Shopping,6.9023,79.8618,Paved,1.5,4.4,41.6532,4,Colombo
+18,Colombo Racecourse Promenade,Colombo,Western,Relax,6.9039,79.8614,Paved,1.5,4.4,42.329,4,Colombo
+19,National Planetarium,Colombo,Western,Museum,6.8896,79.8714,Paved,1.5,4.4,42.4322,4,Colombo
+20,Dehiwala Zoological Gardens,Dehiwala,Western,Nature,6.8536,79.8657,Paved,3.0,4.6,47.8679,4,Colombo
+21,Mount Lavinia Beach,Mount Lavinia,Western,Beach,6.8352,79.8611,Paved,3.0,4.6,50.0748,4,Colombo
+22,Bellanwila Rajamaha Viharaya,Bellanwila,Western,Religious,6.8398,79.8896,Paved,1.5,4.6,48.9626,4,Colombo
+23,Weras Ganga Park,Bellanwila,Western,Park,6.8299,79.887,Paved,1.5,4.4,49.917,4,Colombo
+24,Attidiya Bird Sanctuary,Attidiya,Western,Birding,6.822,79.9005,Off-Road,2.5,4.3,51.423300000000005,4,Colombo
+25,Beddagana Wetland Park,Battaramulla,Western,Nature,6.8794,79.9164,Off-Road,2.5,4.5,46.5567,4,Colombo
+26,Diyatha Uyana,Battaramulla,Western,Park,6.8977,79.9264,Paved,2.0,4.6,45.945800000000006,4,Colombo
+27,Parliament Complex,Sri Jayawardenepura Kotte,Western,Architecture,6.8943,79.9185,Paved,1.5,4.5,44.6711,4,Colombo
+28,Talangama Wetlands,Talangama,Western,Birding,6.8808,79.9418,Off-Road,2.5,4.5,49.3062,4,Colombo
+29,Crow Island Beach Park,Modara,Western,Beach,6.9713,79.8696,Paved,2.0,4.3,37.9764,4,Colombo
+30,St. Lucia’s Cathedral,Kotahena,Western,Religious,6.9417,79.8603,Paved,1.0,4.5,37.4501,4,Colombo
+31,St. Anthony’s Shrine (Kochchikade),Kochchikade,Western,Religious,6.9349,79.8529,Paved,1.0,4.5,39.1944,4,Colombo
+32,Asokaramaya Temple,Kirulapone,Western,Religious,6.8788,79.8612,Paved,1.0,4.4,44.7818,4,Colombo
+33,Colombo City Hall & Museum,Colombo,Western,History,6.9152,79.8619,Paved,1.5,4.3,40.276,4,Colombo
+34,Port City Marina Promenade,Colombo,Western,Relax,6.9365,79.839,Paved,2.0,4.4,40.8603,4,Colombo
+35,Independence Square Grounds,Colombo,Western,Park,6.902,79.8618,Paved,1.5,4.5,41.6871,4,Colombo
+36,Negombo Beach,Negombo,Western,Beach,7.2274,79.8417,Paved,3.0,4.6,8.883799999999999,4,Colombo
+37,Negombo Lagoon,Negombo,Western,Nature,7.179,79.853,Off-Road,3.0,4.5,7.1711,4,Colombo
+38,Negombo Dutch Fort,Negombo,Western,History,7.2089,79.8341,Paved,1.0,4.3,7.770899999999999,4,Colombo
+39,St. Mary’s Church,Negombo,Western,Religious,7.2113,79.8447,Paved,1.0,4.5,7.4912,4,Colombo
+40,Lellama Fish Market,Negombo,Western,Culture,7.219,79.8357,Paved,2.0,4.3,8.459700000000002,4,Colombo
+41,Angurukaramulla Temple,Negombo,Western,Religious,7.2177,79.8539,Paved,1.5,4.5,6.5889,4,Colombo
+42,Hamilton Canal (Negombo),Negombo,Western,History,7.2535,79.8615,Paved,2.0,4.3,13.0026,4,Colombo
+43,Waikkal Beach,Waikkal,Western,Beach,7.3189,79.8555,Paved,3.0,4.4,21.1519,4,Colombo
+44,Kammala Beach,Kammala,Western,Beach,7.3412,79.855,Paved,3.0,4.3,23.9832,4,Colombo
+45,Muthurajawela Marsh,Wattala,Western,Nature,7.125,79.901,Off-Road,3.0,4.5,16.533,4,Colombo
+46,Guruge Nature Park,Ja-Ela,Western,Adventure,7.0424,79.9514,Paved,3.0,4.2,30.3794,4,Colombo
+47,Horagolla National Park,Nittambuwa,Western,Nature,7.1307,80.0048,Off-Road,2.5,4.4,24.1698,4,Colombo
+48,Henarathgoda Botanical Garden,Gampaha,Western,Nature,7.0906,79.994,Paved,2.0,4.5,25.7269,4,Colombo
+49,Maligatenna Rajamaha Viharaya,Maligatenna,Western,Religious,7.1465,80.0626,Hilly,2.0,4.4,29.1446,4,Colombo
+50,Attanagalla Raja Maha Viharaya,Attanagalla,Western,Religious,7.1297,80.0867,Paved,1.5,4.5,34.0277,4,Colombo
+51,Basilica of Our Lady of Lanka (Tewatte),Ragama,Western,Religious,7.0219,79.926,Paved,1.5,4.5,31.0202,4,Colombo
+52,Bopitiya Beach,Bopitiya,Western,Beach,7.081,79.847,Paved,2.5,4.2,23.1539,4,Colombo
+53,Kalutara Bodhiya,Kalutara,Western,Religious,6.5835,79.959,Paved,1.5,4.6,90.0707,4,Colombo
+54,Richmond Castle,Kalutara,Western,History,6.5534,79.9634,Paved,1.5,4.5,101.7282,4,Colombo
+55,Kalutara Beach,Kalutara,Western,Beach,6.575,79.961,Paved,3.0,4.5,91.4946,4,Colombo
+56,Panadura Beach,Panadura,Western,Beach,6.713,79.902,Paved,3.0,4.4,65.4486,4,Colombo
+57,Wadduwa Beach,Wadduwa,Western,Beach,6.6405,79.9517,Paved,3.0,4.4,82.9277,4,Colombo
+58,Moragalla Beach,Moragalla,Western,Beach,6.4504,79.9749,Paved,3.0,4.4,116.1923,8,Galle Area
+59,Barberyn Island Lighthouse,Beruwala,Western,History,6.439,79.9751,Off-Road,2.5,4.6,114.9615,8,Galle Area
+60,Kande Viharaya Temple,Aluthgama,Western,Religious,6.4486,80.003,Paved,1.5,4.6,112.1512,8,Galle Area
+61,Lunuganga Estate,Bentota,Western,Architecture,6.409,80.0108,Paved,2.5,4.7,116.1953,8,Galle Area
+62,Brief Garden by Bevis Bawa,Dharga Town,Western,Nature,6.4213,80.0115,Off-Road,2.5,4.6,115.8652,8,Galle Area
+63,Bentota River Safari (Aluthgama Jetty),Aluthgama,Western,Adventure,6.415,80.005,Off-Road,3.0,4.6,115.1738,8,Galle Area
+64,Kalutara Bridge Viewpoint,Kalutara,Western,Relax,6.5798,79.959,Paved,1.0,4.3,90.3765,4,Colombo
+65,Pahiyangala (Fa-Hien) Cave,Bulathsinhala,Western,Hiking,6.7175,80.1772,Hilly,3.0,4.6,94.3613,3,Hatton Area
+66,Thudugala Ella Waterfall,Dodangoda,Western,Hiking,6.4622,80.0689,Hilly,2.5,4.5,102.2816,8,Galle Area
+67,Bodhinagala Forest Hermitage,Ingiriya,Western,Nature,6.742,80.164,Off-Road,2.5,4.4,86.9213,3,Hatton Area
+68,Makeliya Forest Reserve,Baduraliya,Western,Nature,6.684,80.095,Off-Road,3.0,4.3,81.5243,4,Colombo
+69,Beruwala Beach,Beruwala,Western,Beach,6.4782,79.9828,Paved,3.0,4.4,110.0557,8,Galle Area
+70,Bolgoda Lake South (Panadura side),Panadura,Western,Nature,6.7135,79.915,Off-Road,2.5,4.4,81.5236,4,Colombo
+1,Nilaveli Beach,Nilaveli,Eastern,Beach,8.6874,81.1877,Paved,4.0,4.7,246.8741,10,Trincomalee
+2,Uppuveli Beach,Uppuveli,Eastern,Beach,8.607,81.211,Paved,4.0,4.6,239.4064,10,Trincomalee
+3,Pigeon Island National Park,Nilaveli,Eastern,Nature,8.717,81.213,Off-Road,4.0,4.7,250.1754,10,Trincomalee
+4,Trincomalee Harbour Viewpoint,Trincomalee,Eastern,Viewpoint,8.576,81.232,Paved,1.5,4.5,240.194,10,Trincomalee
+5,Fort Frederick,Trincomalee,Eastern,History,8.573,81.233,Paved,2.0,4.6,240.4833,10,Trincomalee
+6,Koneswaram Temple (Thirukoneswaram),Trincomalee,Eastern,Religious,8.5693,81.2439,Hilly,2.0,4.8,241.2028,10,Trincomalee
+7,Swami Rock (Lover’s Leap),Trincomalee,Eastern,Viewpoint,8.569,81.2445,Hilly,1.5,4.7,241.9484,10,Trincomalee
+8,Marble Beach,Pulmoddai Road,Eastern,Beach,8.515,81.202,Paved,3.5,4.6,237.1781,10,Trincomalee
+9,Dutch Bay Beach,Trincomalee,Eastern,Beach,8.568,81.221,Paved,3.0,4.4,240.1728,10,Trincomalee
+10,Trincomalee War Cemetery,Trincomalee,Eastern,History,8.601,81.218,Paved,1.0,4.4,239.1136,10,Trincomalee
+11,Pathirakali Amman Kovil,Trincomalee,Eastern,Religious,8.571,81.234,Paved,1.5,4.6,240.8141,10,Trincomalee
+12,Trincomalee Hindu Cultural Hall Area,Trincomalee,Eastern,Culture,8.5715,81.235,Paved,1.0,4.3,240.9394,10,Trincomalee
+13,Hot Water Wells (Kanniya),Kanniya,Eastern,Nature,8.612,81.182,Paved,1.5,4.5,236.6017,10,Trincomalee
+14,Lover’s Leap Viewpoint (Trinco),Trincomalee,Eastern,Viewpoint,8.571,81.244,Hilly,1.0,4.5,241.1048,10,Trincomalee
+15,Seruwila Mangala Raja Maha Vihara,Seruwila,Eastern,Religious,8.364,81.313,Paved,2.0,4.6,247.168,10,Trincomalee
+16,Seruwila Allai Tank Birding,Seruwila,Eastern,Birding,8.344,81.293,Off-Road,2.5,4.4,242.99220000000005,10,Trincomalee
+17,Somawathiya Chaitya (Eastern access),Somawathiya,Eastern,Religious,8.146,81.097,Off-Road,3.0,4.6,204.7463,6,Dambulla Area
+18,Kuchchaveli Beach,Kuchchaveli,Eastern,Beach,8.773,81.163,Off-Road,4.0,4.5,256.2764,10,Trincomalee
+19,Shanthi Beach (near Trinco),Trincomalee,Eastern,Beach,8.599,81.24,Paved,3.0,4.4,238.9857,10,Trincomalee
+20,Velgam Vehera,Trincomalee District,Eastern,History,8.731,81.125,Off-Road,2.5,4.5,259.7902,10,Trincomalee
+21,Girihandu Seya,Thiriyai,Eastern,Religious,8.738,81.142,Off-Road,2.5,4.6,255.2227,10,Trincomalee
+22,Thiriyai Beach,Thiriyai,Eastern,Beach,8.741,81.157,Off-Road,3.5,4.4,254.1993,10,Trincomalee
+23,Trincomalee Fishing Harbour Walk,Trincomalee,Eastern,Culture,8.5685,81.225,Paved,1.5,4.2,240.1408,10,Trincomalee
+24,Batticaloa Lagoon,Batticaloa,Eastern,Nature,7.717,81.7,Off-Road,3.0,4.5,294.059,5,Batticaloa Area
+25,Batticaloa Dutch Fort,Batticaloa,Eastern,History,7.7185,81.6942,Paved,2.0,4.4,293.9167,5,Batticaloa Area
+26,Kallady Bridge & “Singing Fish” Area,Batticaloa,Eastern,History,7.7175,81.721,Paved,1.5,4.2,296.3841,5,Batticaloa Area
+27,Kallady Beach,Batticaloa,Eastern,Beach,7.721,81.728,Paved,3.5,4.4,296.5122,5,Batticaloa Area
+28,Pasikudah Beach,Pasikudah,Eastern,Beach,7.93,81.566,Paved,4.0,4.7,267.9039,5,Batticaloa Area
+29,Kalkudah Beach,Kalkudah,Eastern,Beach,7.933,81.558,Paved,4.0,4.6,269.0477,5,Batticaloa Area
+30,Valaichchenai Lagoon,Valaichchenai,Eastern,Nature,7.91,81.54,Off-Road,2.5,4.3,264.8188,5,Batticaloa Area
+31,Batticaloa Market,Batticaloa,Eastern,Shopping,7.717,81.702,Paved,1.5,4.1,294.5721,5,Batticaloa Area
+32,Unnichchai Tank,Unnichchai,Eastern,Nature,7.605,81.676,Off-Road,3.0,4.4,316.1075,5,Batticaloa Area
+33,Madampe/Thoppigala (Baron’s Cap),Thoppigala,Eastern,Hiking,7.674,81.617,Hilly,4.0,4.6,302.2217,5,Batticaloa Area
+34,Thoppigala Viewpoint,Thoppigala,Eastern,Viewpoint,7.676,81.615,Hilly,2.0,4.5,302.4166,5,Batticaloa Area
+35,Arugam Bay,Arugam Bay,Eastern,Beach,6.84,81.836,Paved,4.0,4.8,348.254,12,Pottuvil Area
+36,Main Point Surf Break,Arugam Bay,Eastern,Adventure,6.839,81.836,Paved,3.0,4.7,348.2605,12,Pottuvil Area
+37,Whiskey Point,Pottuvil,Eastern,Adventure,6.902,81.832,Off-Road,3.0,4.7,351.1812,12,Pottuvil Area
+38,Pottuvil Point,Pottuvil,Eastern,Beach,6.879,81.828,Off-Road,3.5,4.6,343.53270000000003,12,Pottuvil Area
+39,Elephant Rock (Arugam Bay),Pottuvil,Eastern,Hiking,6.846,81.827,Hilly,2.5,4.7,347.5239,12,Pottuvil Area
+40,Crocodile Rock,Arugam Bay,Eastern,Hiking,6.826,81.821,Hilly,2.5,4.6,351.0672,12,Pottuvil Area
+41,Lahugala National Park,Lahugala,Eastern,Safari,6.878,81.468,Off-Road,5.0,4.6,300.3506,12,Pottuvil Area
+42,Kumana National Park (Yala East),Panama,Eastern,Safari,6.651,81.667,Off-Road,6.0,4.6,389.6709,12,Pottuvil Area
+43,Kudumbigala Monastery,Panama,Eastern,Religious,6.738,81.739,Hilly,3.0,4.6,368.89,12,Pottuvil Area
+44,Panama Lagoon,Panama,Eastern,Nature,6.763,81.784,Off-Road,3.0,4.5,363.2072,12,Pottuvil Area
+45,Okanda Beach,Okanda,Eastern,Beach,6.6,81.79,Off-Road,4.0,4.5,382.2252,12,Pottuvil Area
+46,Okanda Murugan Kovil,Okanda,Eastern,Religious,6.596,81.792,Paved,2.0,4.6,382.2252,12,Pottuvil Area
+47,Magul Maha Viharaya,Panama,Eastern,History,6.729,81.699,Off-Road,2.5,4.5,369.7233,12,Pottuvil Area
+48,Muhudu Maha Viharaya,Pottuvil,Eastern,Religious,6.869,81.828,Paved,2.0,4.6,344.764,12,Pottuvil Area
+49,Pottuvil Lagoon Safari,Pottuvil,Eastern,Adventure,6.869,81.832,Off-Road,3.5,4.6,344.5058,12,Pottuvil Area
+50,Deegavapi Stupa,Ampara,Eastern,Religious,7.296,81.675,Off-Road,2.5,4.6,298.3408,5,Batticaloa Area
+51,Ampara Town Park,Ampara,Eastern,Park,7.291,81.671,Paved,1.5,4.1,299.05670000000003,5,Batticaloa Area
+52,Gal Oya National Park,Inginiyagala,Eastern,Safari,7.24,81.5,Off-Road,6.0,4.7,283.2343,5,Batticaloa Area
+53,Senanayake Samudraya (Gal Oya Reservoir),Inginiyagala,Eastern,Nature,7.26,81.5,Paved,3.0,4.6,273.6917,5,Batticaloa Area
+54,Boat Safari to Gal Oya Islands,Inginiyagala,Eastern,Adventure,7.25,81.5,Off-Road,5.0,4.7,273.7236,5,Batticaloa Area
+55,Buddhangala Monastery,Ampara,Eastern,Religious,7.424,81.345,Off-Road,2.5,4.6,233.9403,5,Batticaloa Area
+56,Inginiyagala Dam,Inginiyagala,Eastern,Architecture,7.2,81.483,Paved,2.0,4.4,289.5635,5,Batticaloa Area
+57,Akkaraipattu Beach,Akkaraipattu,Eastern,Beach,7.217,81.851,Paved,3.5,4.3,325.4037,12,Pottuvil Area
+58,Kalmunai Beach,Kalmunai,Eastern,Beach,7.414,81.826,Paved,3.5,4.2,304.3605,5,Batticaloa Area
+59,Sainthamaruthu Beach,Sainthamaruthu,Eastern,Beach,7.38,81.835,Paved,3.5,4.2,308.2793,5,Batticaloa Area
+60,Addalaichenai Beach,Addalaichenai,Eastern,Beach,7.476,81.759,Paved,3.5,4.2,288.358,5,Batticaloa Area
+61,Komari Beach,Komari,Eastern,Beach,6.998,81.829,Off-Road,4.0,4.4,362.4339000000001,12,Pottuvil Area
+62,Ullackalie Lagoon (near Komari),Komari,Eastern,Nature,7.01,81.83,Off-Road,2.5,4.3,364.0805,12,Pottuvil Area
+64,Batticaloa St. Mary’s Cathedral,Batticaloa,Eastern,Religious,7.716,81.702,Paved,1.5,4.3,294.3484,5,Batticaloa Area
+65,Batticaloa Hindu Temples Circuit,Batticaloa,Eastern,Religious,7.717,81.705,Paved,2.0,4.3,294.7289,5,Batticaloa Area
+66,Pasikudah Water Sports Bay,Pasikudah,Eastern,Adventure,7.9305,81.565,Paved,3.5,4.6,268.8195,5,Batticaloa Area
+67,Kalkudah Sandbar Walk,Kalkudah,Eastern,Nature,7.936,81.556,Off-Road,2.5,4.4,269.3956,5,Batticaloa Area
+68,Trincomalee Beach Road Sunset Points,Uppuveli,Eastern,Relax,8.606,81.214,Paved,2.0,4.4,239.4127,10,Trincomalee
+69,Sampur Beach & View,Sampur,Eastern,Beach,8.478,81.3,Off-Road,3.5,4.2,251.6315,10,Trincomalee
+70,Sampur Viewpoint,Sampur,Eastern,Viewpoint,8.475,81.295,Paved,1.5,4.2,250.7921,10,Trincomalee
+71,Kiliveddy Lagoon,Kiliveddy,Eastern,Nature,8.377,81.305,Off-Road,2.5,4.3,250.32,10,Trincomalee
+72,Muttur Hot Wells,Muttur,Eastern,Nature,8.46,81.27,Paved,1.5,4.2,247.2583,10,Trincomalee
+73,Kantalai Tank,Kantalai,Eastern,Nature,8.367,81.0,Off-Road,3.0,4.4,201.0493,6,Dambulla Area
+74,Kantalai Sugar Factory Heritage Stop,Kantalai,Eastern,History,8.365,81.01,Paved,1.5,4.1,202.6099,6,Dambulla Area
+75,Kinniya Hot Springs (Kanniya Wells),Kinniya,Eastern,Nature,8.612,81.182,Paved,1.5,4.5,236.6017,10,Trincomalee
+76,Trinco Navy Museum Area (local),Trincomalee,Eastern,Museum,8.567,81.23,Paved,1.5,4.2,240.4084,10,Trincomalee
+77,Coral Island Snorkeling (Nilaveli),Nilaveli,Eastern,Adventure,8.707,81.206,Off-Road,4.0,4.6,249.2782,10,Trincomalee
+78,Batticaloa Lagoon Kayaking,Batticaloa,Eastern,Adventure,7.717,81.7,Off-Road,3.0,4.4,294.059,5,Batticaloa Area
+79,Pottuvil Market & Fishing Culture Walk,Pottuvil,Eastern,Culture,6.869,81.8285,Paved,1.5,4.1,344.6369,12,Pottuvil Area
+80,Trincomalee Railway Station Heritage Stop,Trincomalee,Eastern,History,8.575,81.234,Paved,1.0,4.1,240.4195,10,Trincomalee
+82,Vakarai Beach,Vakarai,Eastern,Beach,8.133,81.45,Off-Road,4.0,4.4,284.391,10,Trincomalee
+83,Vakarai Lagoon,Vakarai,Eastern,Nature,8.14,81.445,Off-Road,2.5,4.3,285.0336,10,Trincomalee
+84,Kalkudah Reef Snorkeling Spot,Kalkudah,Eastern,Adventure,7.934,81.5585,Off-Road,3.5,4.5,269.1449,5,Batticaloa Area
+85,Trincomalee Bay Whale & Dolphin Watching,Trincomalee,Eastern,Adventure,8.575,81.235,Off-Road,4.0,4.6,240.3947,10,Trincomalee
+1,Wilpattu National Park (Puttalam Entrance),Eluwankulama,North Western,Safari,8.456,79.995,Off-Road,6.0,4.8,227.0342,11,Talaimannar Area
+2,Kalpitiya Beach,Kalpitiya,North Western,Beach,8.229,79.769,Paved,4.0,4.6,138.4459,13,Kalpitiya Area
+3,Kalpitiya Lagoon,Kalpitiya,North Western,Nature,8.246,79.77,Off-Road,3.0,4.6,139.395,13,Kalpitiya Area
+4,Dutch Fort (Kalpitiya),Kalpitiya,North Western,History,8.232,79.765,Paved,1.5,4.4,137.5787,13,Kalpitiya Area
+5,Kite Surfing - Kalpitiya,Kalpitiya,North Western,Adventure,8.239,79.764,Off-Road,4.0,4.7,137.81310000000002,13,Kalpitiya Area
+6,Dolphin & Whale Watching (Kalpitiya),Kalpitiya,North Western,Adventure,8.24,79.76,Off-Road,4.0,4.6,138.231,13,Kalpitiya Area
+7,Alankuda Beach,Alankuda,North Western,Beach,8.128,79.714,Paved,4.0,4.5,125.153,13,Kalpitiya Area
+8,Kudawa Beach (Kalpitiya Peninsula),Kudawa,North Western,Beach,8.245,79.735,Off-Road,3.5,4.4,139.5253,13,Kalpitiya Area
+9,Baththalangunduwa Island,Baththalangunduwa,North Western,Adventure,8.266,79.721,Off-Road,6.0,4.5,141.4036,13,Kalpitiya Area
+10,Dutch Bay (Puttalam Lagoon Side),Kalpitiya,North Western,Nature,8.24,79.77,Off-Road,2.5,4.4,137.7367,13,Kalpitiya Area
+11,St. Anne’s Shrine,Talawila,North Western,Religious,8.065,79.709,Paved,2.0,4.7,118.6952,13,Kalpitiya Area
+12,Talawila Beach,Talawila,North Western,Beach,8.066,79.707,Paved,3.5,4.4,118.8744,13,Kalpitiya Area
+13,Munneswaram Kovil,Chilaw,North Western,Religious,7.588,79.799,Paved,2.0,4.6,51.8159,13,Kalpitiya Area
+14,St. Mary’s Cathedral (Chilaw),Chilaw,North Western,Religious,7.575,79.795,Paved,1.5,4.4,50.3165,13,Kalpitiya Area
+15,Chilaw Beach Park,Chilaw,North Western,Beach,7.574,79.794,Paved,3.0,4.3,50.5869,13,Kalpitiya Area
+16,Anawilundawa Wetland Sanctuary,Anawilundawa,North Western,Birding,7.676,79.825,Off-Road,3.5,4.6,63.9804,13,Kalpitiya Area
+17,Senanayake Samudraya View (Puttalam side),Puttalam,North Western,Viewpoint,8.02,79.83,Paved,1.5,4.2,102.0209,13,Kalpitiya Area
+18,Puttalam Lagoon,Puttalam,North Western,Nature,8.033,79.829,Off-Road,3.0,4.4,103.5583,13,Kalpitiya Area
+19,Puttalam Salt Pans (Palavi area),Palavi,North Western,Culture,8.036,79.835,Paved,2.5,4.3,104.4071,13,Kalpitiya Area
+20,Kurunegala Elephant Rock (Ethagala),Kurunegala,North Western,Viewpoint,7.486,80.363,Hilly,2.0,4.6,76.3138,1,Kurunegala
+21,Athugala Buddha Statue,Kurunegala,North Western,Religious,7.4865,80.3625,Hilly,1.5,4.6,76.228,1,Kurunegala
+22,Kurunegala Lake (Wewa) Walk,Kurunegala,North Western,Relax,7.483,80.357,Paved,1.5,4.4,76.145,1,Kurunegala
+23,Kurunegala Clock Tower Area,Kurunegala,North Western,History,7.4868,80.362,Paved,1.0,4.2,76.49560000000001,1,Kurunegala
+24,Ridi Viharaya,Ridigama,North Western,Religious,7.522,80.437,Hilly,2.0,4.7,86.2946,1,Kurunegala
+25,Arankele Forest Monastery,Arankele,North Western,History,7.635,80.318,Off-Road,2.5,4.6,100.9497,1,Kurunegala
+26,Yapahuwa Rock Fortress,Yapahuwa,North Western,History,7.816,80.313,Hilly,3.5,4.7,131.7876,1,Kurunegala
+27,Yapahuwa Stone Stairway & Lion Gate,Yapahuwa,North Western,History,7.8165,80.3135,Hilly,2.5,4.7,131.7127,1,Kurunegala
+28,Panduwasnuwara Ancient Kingdom Ruins,Panduwasnuwara,North Western,History,7.708,80.202,Paved,2.0,4.5,110.8824,1,Kurunegala
+29,Panduwasnuwara Museum,Panduwasnuwara,North Western,Museum,7.7085,80.2025,Paved,1.5,4.4,110.7937,1,Kurunegala
+30,Deduru Oya Reservoir,Deduru Oya,North Western,Nature,7.6,80.25,Off-Road,2.5,4.4,99.7041,1,Kurunegala
+31,Deduru Oya River Banks (Chilaw side),Chilaw,North Western,Nature,7.57,79.82,Off-Road,2.0,4.3,53.6959,13,Kalpitiya Area
+32,Negombo–Puttalam Coastal Drive Viewpoints,Wennappuwa,North Western,Viewpoint,7.52,79.85,Paved,1.5,4.2,44.184,13,Kalpitiya Area
+33,Waikkal Beach (NW stretch),Waikkal,North Western,Beach,7.3189,79.8555,Paved,3.0,4.4,21.1519,4,Colombo
+34,Marawila Beach,Marawila,North Western,Beach,7.409,79.826,Paved,3.5,4.4,30.7428,4,Colombo
+35,Marawila Church (St. Sebastian’s),Marawila,North Western,Religious,7.4095,79.8255,Paved,1.5,4.3,30.8162,4,Colombo
+36,Maha Oya River Mouth,Wennappuwa,North Western,Nature,7.5,79.84,Off-Road,2.0,4.2,42.4545,13,Kalpitiya Area
+37,Maha Oya Estuary Birding,Wennappuwa,North Western,Birding,7.501,79.8405,Off-Road,2.5,4.3,42.5192,13,Kalpitiya Area
+38,Udappu Lagoon,Udappu,North Western,Nature,7.742,79.819,Off-Road,2.5,4.4,76.5455,13,Kalpitiya Area
+39,Udappu Bird Sanctuary (local),Udappu,North Western,Birding,7.741,79.82,Off-Road,3.0,4.4,76.6989,13,Kalpitiya Area
+40,Chilaw Lagoon,Chilaw,North Western,Nature,7.582,79.786,Off-Road,2.5,4.3,51.6048,13,Kalpitiya Area
+41,Chilaw Fishing Harbour Walk,Chilaw,North Western,Culture,7.5755,79.792,Paved,1.5,4.2,50.7047,13,Kalpitiya Area
+42,Mahawewa / Maha Oya Scenic Bridge,Marawila,North Western,Architecture,7.415,79.828,Paved,1.0,4.1,31.1747,4,Colombo
+43,Anamaduwa Reservoir (Anamaduwa Wewa),Anamaduwa,North Western,Nature,7.873,80.01,Off-Road,2.5,4.3,94.9826,13,Kalpitiya Area
+44,Chilaw Munneswaram Festival Grounds,Chilaw,North Western,Culture,7.5885,79.7995,Paved,2.0,4.3,51.9032,13,Kalpitiya Area
+45,Puttalam Grand Mosque,Puttalam,North Western,Religious,8.036,79.828,Paved,1.5,4.3,103.7667,13,Kalpitiya Area
+46,St. James’ Church (Kurunegala),Kurunegala,North Western,Religious,7.486,80.36,Paved,1.5,4.2,76.3634,1,Kurunegala
+47,Padeniya Raja Maha Viharaya,Padeniya,North Western,Religious,7.566,80.41,Paved,1.5,4.4,93.4639,1,Kurunegala
+48,Bathalagoda Tank,Bathalagoda,North Western,Nature,7.59,80.36,Off-Road,2.5,4.3,91.3371,1,Kurunegala
+49,Bathalagoda Bird Watching Point,Bathalagoda,North Western,Birding,7.5905,80.3595,Off-Road,2.5,4.3,91.5828,1,Kurunegala
+50,Thalawila Scenic Coastal Belt,Talawila,North Western,Relax,8.062,79.708,Paved,2.0,4.3,118.8965,13,Kalpitiya Area
+51,Kalpitiya Dutch Church Ruins,Kalpitiya,North Western,History,8.2325,79.7655,Paved,1.5,4.2,137.5689,13,Kalpitiya Area
+52,Kalpitiya Peninsula Sand Dunes,Kalpitiya,North Western,Nature,8.24,79.74,Off-Road,3.0,4.4,139.1286,13,Kalpitiya Area
+53,Palavi Railway Station Heritage Stop,Palavi,North Western,History,8.04,79.835,Paved,1.0,4.0,104.574,13,Kalpitiya Area
+54,Eluwankulama Village Edge (Wilpattu buffer),Eluwankulama,North Western,Culture,8.455,80.0,Off-Road,2.0,4.2,223.2635,11,Talaimannar Area
+55,Anuradhapura–Puttalam Road Scenic Point (NW),Nochchiyagama Border,NW,Viewpoint,8.35,80.1,Paved,1.5,4.1,157.8417,11,Talaimannar Area
+56,Maha Saman Devalaya (Chilaw area),Chilaw,North Western,Religious,7.585,79.79,Paved,1.5,4.2,52.215,13,Kalpitiya Area
+57,Kurinchanpitiya Mangroves,Puttalam,North Western,Nature,8.065,79.83,Off-Road,2.5,4.3,107.5984,13,Kalpitiya Area
+58,Puttalam Kite Beach (lagoon edge),Kalpitiya,North Western,Adventure,8.24,79.772,Off-Road,3.5,4.5,137.6873,13,Kalpitiya Area
+60,Chilaw–Puttalam Mangrove Boat Ride (local),Puttalam,North Western,Adventure,8.03,79.828,Off-Road,3.5,4.4,103.162,13,Kalpitiya Area
+61,Kurunegala Cultural Centre Area,Kurunegala,North Western,Culture,7.488,80.362,Paved,1.5,4.2,79.2536,1,Kurunegala
+62,Wellawa Wewa,Wellawa,North Western,Nature,7.85,80.25,Off-Road,2.5,4.3,126.5505,1,Kurunegala
+64,Polpitigama Village Walk,Polpitigama,North Western,Culture,7.81,80.41,Paved,2.0,4.2,116.654,1,Kurunegala
+65,Maho Railway Junction Heritage Stop,Maho,North Western,History,7.822,80.28,Paved,1.5,4.2,126.944,1,Kurunegala
+66,Maho River Viewpoint,Maho,North Western,Viewpoint,7.824,80.276,Paved,1.5,4.2,125.941,1,Kurunegala
+67,Narammala Lake Walk,Narammala,North Western,Relax,7.43,80.22,Paved,1.5,4.1,64.14569999999999,1,Kurunegala
+68,Kuliyapitiya Town Market,Kuliyapitiya,North Western,Shopping,7.47,80.04,Paved,1.5,4.1,53.0151,1,Kurunegala
+69,Kuliyapitiya Temple Circuit,Kuliyapitiya,North Western,Religious,7.468,80.0405,Paved,2.0,4.2,53.0632,1,Kurunegala
+70,Galgamuwa Park & Tank,Galgamuwa,North Western,Park,7.995,80.265,Paved,1.5,4.2,134.4718,1,Kurunegala
+71,Galgamuwa Town Viewpoint,Galgamuwa,North Western,Viewpoint,7.998,80.268,Paved,1.0,4.1,134.1863,1,Kurunegala
+72,Nikaweratiya Reservoir,Nikaweratiya,North Western,Nature,7.75,80.12,Off-Road,2.5,4.2,93.3877,1,Kurunegala
+73,Wariyapola Sri Sumangala Rajamaha Viharaya,Wariyapola,North Western,Religious,7.61,80.24,Paved,1.5,4.4,88.23830000000001,1,Kurunegala
+74,Kobeigane Temple Loop,Kobeigane,North Western,Religious,7.65,80.23,Paved,1.5,4.2,106.2461,1,Kurunegala
+75,Bingiriya Temple Area,Bingiriya,North Western,Religious,7.605,80.03,Paved,1.5,4.2,68.7206,1,Kurunegala
+76,Chilaw Marina (local),Chilaw,North Western,Relax,7.575,79.7925,Paved,1.5,4.1,50.6441,13,Kalpitiya Area
+77,Kalpitiya Lagoon Sunset Point,Kalpitiya,North Western,Viewpoint,8.2465,79.7705,Paved,1.5,4.5,139.395,13,Kalpitiya Area
+78,Rambaken Oya Scenic Stop,Yapahuwa area,North Western,Nature,7.82,80.3,Off-Road,2.5,4.2,130.54139999999998,1,Kurunegala
+79,Yapahuwa Museum Corner,Yapahuwa,North Western,Museum,7.8162,80.3128,Paved,1.5,4.3,131.7964,1,Kurunegala
+80,Panduwasnuwara Ancient Tank Walk,Panduwasnuwara,North Western,Nature,7.706,80.205,Off-Road,2.5,4.3,110.6235,1,Kurunegala
+1,Jaffna Fort,Jaffna,Northern,History,9.6616,80.0108,Paved,2.0,4.6,375.0485,7,Jaffna Area
+2,Nallur Kandaswamy Kovil,Nallur,Northern,Religious,9.6733,80.0302,Paved,2.0,4.8,373.0535,7,Jaffna Area
+3,Jaffna Public Library,Jaffna,Northern,Museum,9.6685,80.0255,Paved,1.5,4.7,373.6671,7,Jaffna Area
+4,Jaffna Archaeological Museum,Jaffna,Northern,Museum,9.6649,80.0293,Paved,1.5,4.5,372.97,7,Jaffna Area
+5,Dutch Reformed Church (Jaffna),Jaffna,Northern,History,9.6638,80.0138,Paved,1.0,4.4,375.3234000000001,7,Jaffna Area
+6,Jaffna Market,Jaffna,Northern,Shopping,9.664,80.021,Paved,1.5,4.3,374.1021,7,Jaffna Area
+7,Old Park (Jaffna),Jaffna,Northern,Park,9.668,80.0155,Paved,1.5,4.2,374.6999,7,Jaffna Area
+8,Keerimalai Naguleswaram Kovil,Keerimalai,Northern,Religious,9.8236,80.0198,Paved,1.5,4.7,390.8885,7,Jaffna Area
+9,Keerimalai Natural Springs,Keerimalai,Northern,Nature,9.8239,80.0194,Paved,1.5,4.5,390.8885,7,Jaffna Area
+10,Kankesanthurai Beach (KKS),Kankesanthurai,Northern,Beach,9.8008,80.0387,Paved,2.5,4.3,387.5986,7,Jaffna Area
+11,Kankesanthurai Harbor View,Kankesanthurai,Northern,Viewpoint,9.803,80.0405,Paved,1.0,4.2,387.5986,7,Jaffna Area
+12,Kandarodai (Kadurugoda) Temple Complex,Chunnakam,Northern,History,9.7457,80.0309,Paved,2.0,4.6,380.9787,7,Jaffna Area
+13,Nilavarai Bottomless Well,Nilavarai,Northern,Nature,9.7653,80.0264,Paved,1.5,4.5,383.6736,7,Jaffna Area
+14,Chundikulam National Park,Chundikulam,Northern,Nature,9.542,80.486,Off-Road,4.0,4.5,342.28,17,Kilinochchi Area
+15,Chundikulam Lagoon Birding,Chundikulam,Northern,Birding,9.539,80.49,Off-Road,3.0,4.5,343.2831,17,Kilinochchi Area
+16,Casuarina Beach,Karainagar,Northern,Beach,9.745,79.881,Paved,3.0,4.6,393.1848,7,Jaffna Area
+17,Karainagar Causeway Drive,Karainagar,Northern,Relax,9.74,79.885,Paved,1.5,4.4,392.5855,7,Jaffna Area
+18,Nagadeepa Purana Viharaya,Nagadeepa (Nainativu),Northern,Religious,9.6028,79.7696,Paved,2.0,4.8,409.2282,7,Jaffna Area
+19,Nainativu Nagapooshani Amman Kovil,Nainativu,Northern,Religious,9.605,79.7705,Paved,2.0,4.8,409.6,7,Jaffna Area
+20,Delft (Neduntheevu) Island,Delft,Northern,Adventure,9.545,79.685,Off-Road,6.0,4.6,422.918,7,Jaffna Area
+21,Delft Wild Horses Area,Delft,Northern,Nature,9.535,79.69,Off-Road,4.0,4.5,421.3015,7,Jaffna Area
+22,Delft Dutch Fort Ruins,Delft,Northern,History,9.52,79.667,Off-Road,2.0,4.4,424.2724,7,Jaffna Area
+23,Pigeon Nest (Delft) Baobab Tree,Delft,Northern,Nature,9.5205,79.676,Off-Road,1.5,4.4,422.9335,7,Jaffna Area
+24,Kayts Island (Velanai) Causeway View,Kayts,Northern,Viewpoint,9.62,79.82,Paved,1.5,4.3,401.7782,7,Jaffna Area
+25,Kayts Dutch Fort Ruins,Kayts,Northern,History,9.675,79.83,Off-Road,1.5,4.2,399.4204,7,Jaffna Area
+26,Point Pedro Lighthouse,Point Pedro,Northern,History,9.816,80.24,Paved,1.5,4.5,372.5647,7,Jaffna Area
+27,Point Pedro Beach,Point Pedro,Northern,Beach,9.82,80.235,Paved,2.5,4.4,371.6652,7,Jaffna Area
+28,Valvettithurai Beach,VVT,Northern,Beach,9.811,80.17,Paved,2.5,4.3,377.4991,7,Jaffna Area
+29,Thondaimanaru Lagoon,Thondaimanaru,Northern,Nature,9.808,80.1,Off-Road,2.5,4.4,382.8586,7,Jaffna Area
+30,Thondaimanaru Bridge Viewpoint,Thondaimanaru,Northern,Viewpoint,9.806,80.095,Paved,1.0,4.3,380.8827,7,Jaffna Area
+31,Chavakachcheri Market Walk,Chavakachcheri,Northern,Culture,9.658,80.165,Paved,1.0,4.2,362.6418,7,Jaffna Area
+32,Chavakachcheri Hindu Temples Loop,Chavakachcheri,Northern,Religious,9.654,80.16,Paved,2.0,4.3,361.2992,7,Jaffna Area
+33,Manalkadu Sand Dunes,Manalkadu,Northern,Nature,9.69,80.32,Off-Road,3.0,4.5,352.34,7,Jaffna Area
+34,Manalkadu Beach,Manalkadu,Northern,Beach,9.694,80.323,Off-Road,3.0,4.4,352.90270000000004,7,Jaffna Area
+35,Mullaitivu Beach,Mullaitivu,Northern,Beach,9.267,80.815,Paved,3.0,4.3,311.125,17,Kilinochchi Area
+36,Mullaitivu War Museum,Mullaitivu,Northern,Museum,9.266,80.814,Paved,1.5,4.2,310.43440000000004,17,Kilinochchi Area
+37,Mullaitivu Lagoon,Mullaitivu,Northern,Nature,9.255,80.8,Off-Road,2.5,4.3,307.7869,17,Kilinochchi Area
+38,Kokkilai Lagoon,Kokkilai,Northern,Birding,9.121,80.598,Off-Road,3.0,4.4,292.5155,17,Kilinochchi Area
+39,Nayaru Lagoon,Nayaru,Northern,Nature,9.2,80.77,Off-Road,2.5,4.3,300.4962,17,Kilinochchi Area
+40,Vavuniya Town Park,Vavuniya,Northern,Park,8.751,80.498,Paved,1.5,4.2,236.6408,2,Anuradhapura
+41,Vavuniya Market,Vavuniya,Northern,Shopping,8.7515,80.4988,Paved,1.5,4.2,236.5901,2,Anuradhapura
+42,Madukanda Vihara,Madukanda,Northern,Religious,8.87,80.26,Paved,1.5,4.4,270.3596,11,Talaimannar Area
+43,Elephant Pass (Gateway),Elephant Pass,Northern,History,9.515,80.396,Paved,1.0,4.3,326.1168,17,Kilinochchi Area
+44,Elephant Pass Lagoon Viewpoint,Elephant Pass,Northern,Viewpoint,9.51,80.39,Paved,1.0,4.3,326.1168,17,Kilinochchi Area
+45,Kilinochchi War Memorial Area,Kilinochchi,Northern,History,9.395,80.403,Paved,1.5,4.1,313.1942,17,Kilinochchi Area
+46,Kilinochchi Lagoon Edge,Kilinochchi,Northern,Nature,9.39,80.43,Off-Road,2.0,4.2,315.3101,17,Kilinochchi Area
+47,Iranamadu Tank (Reservoir),Iranamadu,Northern,Nature,9.34,80.45,Off-Road,2.5,4.3,311.8243,17,Kilinochchi Area
+48,Oddusuddan Thiruketheeswaram Kovil,Oddusuddan,Northern,Religious,9.171,80.681,Paved,1.5,4.3,294.9476,17,Kilinochchi Area
+49,Mannar Fort,Mannar,Northern,History,8.9815,79.9233,Paved,2.0,4.5,256.8457,11,Talaimannar Area
+50,Mannar Dutch Fort Walls Walk,Mannar,Northern,History,8.9812,79.9229,Paved,1.5,4.4,256.7921,11,Talaimannar Area
+52,Adams Bridge (Ram Setu) Viewpoint,Talaimannar,Northern,Viewpoint,9.091,79.731,Paved,2.0,4.6,286.0975,11,Talaimannar Area
+53,Talaimannar Lighthouse,Talaimannar,Northern,History,9.092,79.7318,Paved,1.5,4.5,285.9689,11,Talaimannar Area
+54,Talaimannar Pier & Beach,Talaimannar,Northern,Beach,9.09,79.733,Paved,2.5,4.4,283.2695,11,Talaimannar Area
+55,Thiruketheeswaram Kovil,Mannar,Northern,Religious,8.989,79.893,Paved,2.0,4.7,258.5053,11,Talaimannar Area
+56,Mannar Baobab Tree,Palampiddi/Mannar,Northern,Nature,8.952,79.913,Paved,1.0,4.5,253.0798,11,Talaimannar Area
+57,Mannar Bird Sanctuary (Vankalai),Vankalai,Northern,Birding,8.954,79.928,Off-Road,3.0,4.6,252.875,11,Talaimannar Area
+58,Vankalai Lagoon,Vankalai,Northern,Nature,8.958,79.933,Off-Road,2.5,4.5,253.1661,11,Talaimannar Area
+59,Giants Tank (Yoda Wewa),Mannar,Northern,Nature,8.96,79.98,Off-Road,2.5,4.4,256.99920000000003,11,Talaimannar Area
+60,Arippu Dutch Church Ruins,Arippu,Northern,History,8.81,79.9,Off-Road,2.0,4.2,231.8912,11,Talaimannar Area
+61,Arippu Beach,Arippu,Northern,Beach,8.808,79.901,Off-Road,3.0,4.3,231.8912,11,Talaimannar Area
+62,Madu Church (Shrine of Our Lady of Madhu),Madhu,Northern,Religious,8.857,80.208,Paved,2.0,4.7,270.1574,11,Talaimannar Area
+63,Murunkan Temple Circuit,Murunkan,Northern,Religious,8.938,80.06,Paved,2.0,4.2,257.1999,11,Talaimannar Area
+64,Palmyrah House Cultural Center,Jaffna,Northern,Culture,9.665,80.02,Paved,1.5,4.3,374.1546,7,Jaffna Area
+65,Jaffna Lagoon Kayaking (local jetties),Jaffna,Northern,Adventure,9.68,80.005,Off-Road,3.0,4.4,376.5175,7,Jaffna Area
+67,Charty Beach (near Point Pedro),Point Pedro,Northern,Beach,9.8205,80.245,Paved,2.5,4.3,373.0499,7,Jaffna Area
+68,Keerimalai Cliff Viewpoint,Keerimalai,Northern,Viewpoint,9.8242,80.0188,Hilly,1.0,4.5,390.8885,7,Jaffna Area
+69,Jaffna Clock Tower,Jaffna,Northern,History,9.669,80.019,Paved,0.8,4.3,374.3178,7,Jaffna Area
+70,Jaffna Railway Station Heritage Stop,Jaffna,Northern,History,9.667,80.0178,Paved,1.0,4.2,374.5784,7,Jaffna Area
+71,Kopay Hot Springs (local),Kopay,Northern,Nature,9.7,80.02,Off-Road,1.5,4.1,376.0526,7,Jaffna Area
+72,Santhakulam Lake Walk,Jaffna,Northern,Relax,9.68,80.03,Paved,1.5,4.3,373.7617,7,Jaffna Area
+73,Chavakachcheri Lagoon Edge,Chavakachcheri,Northern,Nature,9.66,80.17,Off-Road,2.0,4.2,361.9254,7,Jaffna Area
+74,Puthukkudiyiruppu Town Memorial Area,Puthukkudiyiruppu,Northern,History,9.25,80.7,Paved,1.5,4.0,303.4594,17,Kilinochchi Area
+75,Mullivaikkal Beach,Mullivaikkal,Northern,Beach,9.26,80.93,Off-Road,3.0,4.2,312.1272,17,Kilinochchi Area
+76,Manthai West Ancient Port Area,Mannar (Mantai),Northern,History,8.981,79.95,Off-Road,2.0,4.3,257.2986,11,Talaimannar Area
+77,Pooneryn Fort Ruins,Pooneryn,Northern,History,9.502,80.207,Off-Road,2.0,4.3,341.2862,7,Jaffna Area
+78,Pooneryn Beach,Pooneryn,Northern,Beach,9.495,80.203,Off-Road,3.0,4.3,341.8563,7,Jaffna Area
+79,Iyakachchi Town Stop,Iyakachchi,Northern,Culture,9.445,80.452,Paved,1.0,4.1,323.1597,17,Kilinochchi Area
+80,Mannar Causeway Drive,Mannar,Northern,Relax,9.0,79.95,Paved,1.5,4.4,257.2617,11,Talaimannar Area
+1,Sri Pada (Adam’s Peak) via Nallathanniya,Nallathanniya,Sabaragamuwa,Hiking,6.809,80.499,Hilly,6.0,4.9,142.7996,3,Hatton Area
+2,Sri Pada Sacred Area (Summit),Sri Pada,Sabaragamuwa,Religious,6.8096,80.4992,Hilly,2.0,4.9,142.7996,3,Hatton Area
+3,Peak Wilderness Sanctuary,Maskeliya,Sabaragamuwa,Nature,6.82,80.48,Off-Road,4.0,4.7,121.5474,3,Hatton Area
+4,Castlereagh Reservoir (Sabaragamuwa side),Hatton/Maskeliya,Sabaragamuwa,Relax,6.834,80.536,Paved,2.5,4.6,138.5075,3,Hatton Area
+5,Maussakelle Reservoir (near Maskeliya),Maskeliya,Sabaragamuwa,Relax,6.809,80.487,Paved,2.5,4.5,142.79160000000002,3,Hatton Area
+6,Laxapana Falls,Maskeliya,Sabaragamuwa,Nature,6.906,80.503,Hilly,2.5,4.6,120.6913,3,Hatton Area
+7,Aberdeen Falls,Ginigathhena,Sabaragamuwa,Hiking,6.99,80.383,Hilly,2.5,4.6,83.60119999999999,3,Hatton Area
+8,St. Clair’s Falls,Talawakelle,Sabaragamuwa,Nature,6.951,80.533,Hilly,2.0,4.6,109.5339,3,Hatton Area
+9,Bopath Ella Falls,Kuruwita,Sabaragamuwa,Nature,6.806,80.378,Hilly,2.0,4.5,109.5405,3,Hatton Area
+10,Kuruwita Erathna Sri Pada Trailhead,Erathna,Sabaragamuwa,Hiking,6.789,80.4,Hilly,6.0,4.6,114.5393,3,Hatton Area
+11,Udawalawe National Park (Sabaragamuwa Gate),Embilipitiya,Sabaragamuwa,Safari,6.474,80.8893,Off-Road,6.0,4.8,204.2192,9,Nuwara Eliya
+12,Udawalawe Elephant Transit Home,Ethanawala,Sabaragamuwa,Nature,6.4745,80.885,Paved,2.0,4.7,203.9952,9,Nuwara Eliya
+13,Sankapala Raja Maha Viharaya,Kuruwita,Sabaragamuwa,Religious,6.82,80.383,Hilly,2.5,4.6,111.7422,3,Hatton Area
+14,Batadombalena Cave,Kuruwita,Sabaragamuwa,History,6.828,80.347,Hilly,2.5,4.6,104.1244,3,Hatton Area
+15,Belilena Cave,Kitulgala (near boundary),Sabaragamuwa,Adventure,6.989,80.414,Hilly,3.0,4.5,91.8929,3,Hatton Area
+16,Kitulgala White Water Rafting Zone,Kitulgala,Sabaragamuwa,Adventure,6.9895,80.415,Off-Road,4.0,4.7,91.8914,3,Hatton Area
+18,Pinnawala Elephant Orphanage,Pinnawala,Sabaragamuwa,Nature,7.3,80.388,Paved,3.0,4.6,79.8945,1,Kurunegala
+19,Pinnawala Open Zoo (Elephant Safari Park),Pinnawala,Sabaragamuwa,Nature,7.304,80.389,Paved,3.0,4.4,80.6934,1,Kurunegala
+20,Millennium Elephant Foundation,Rambukkana,Sabaragamuwa,Nature,7.32,80.39,Paved,2.5,4.5,82.4355,1,Kurunegala
+21,Rambukkana Railway Station Heritage Stop,Rambukkana,Sabaragamuwa,History,7.323,80.391,Paved,1.0,4.1,83.6173,1,Kurunegala
+22,Alagalla Mountain Range (Sabaragamuwa access),Mawanella,Sabaragamuwa,Hiking,7.255,80.48,Hilly,5.0,4.6,87.7946,14,Kandy Area
+23,Elephant Bathing Point (Pinnawala River),Pinnawala,Sabaragamuwa,Relax,7.301,80.387,Paved,2.0,4.4,80.0098,1,Kurunegala
+24,Belihuloya River & Trails,Belihuloya,Sabaragamuwa,Nature,6.713,80.786,Hilly,3.0,4.6,185.4952,9,Nuwara Eliya
+25,Belihuloya Samanalawewa Viewpoint,Belihuloya,Sabaragamuwa,Viewpoint,6.709,80.782,Hilly,2.0,4.6,184.482,9,Nuwara Eliya
+26,Samanalawewa Reservoir,Belihuloya,Sabaragamuwa,Nature,6.707,80.767,Paved,2.5,4.6,181.7289,9,Nuwara Eliya
+27,Baker’s Bend (Belihuloya) Scenic Stop,Belihuloya,Sabaragamuwa,Viewpoint,6.71,80.78,Paved,1.5,4.4,183.9352,9,Nuwara Eliya
+28,Bambarakanda Falls,Kalupahana,Sabaragamuwa,Nature,6.772,80.87,Hilly,2.5,4.8,201.7208,9,Nuwara Eliya
+29,Lanka Ella Falls,Kalupahana,Sabaragamuwa,Hiking,6.79,80.866,Hilly,2.5,4.6,193.9267,9,Nuwara Eliya
+30,Surathali Ella,Kalupahana,Sabaragamuwa,Nature,6.78,80.86,Hilly,2.0,4.5,203.9321,9,Nuwara Eliya
+31,Hawagala Mountain Viewpoint,Balangkoda,Sabaragamuwa,Viewpoint,6.65,80.7,Hilly,2.5,4.5,167.2761,9,Nuwara Eliya
+32,Balangkoda Town Market,Balangkoda,Sabaragamuwa,Shopping,6.655,80.694,Paved,1.5,4.1,168.6915,9,Nuwara Eliya
+33,Balangkoda Lake Walk,Balangkoda,Sabaragamuwa,Relax,6.66,80.7,Paved,1.5,4.2,168.7873,9,Nuwara Eliya
+34,Balangkoda Ancient Cave Sites (local circuit),Balangkoda,Sabaragamuwa,History,6.64,80.71,Off-Road,3.0,4.3,168.48489999999998,9,Nuwara Eliya
+35,Pahanthudawa Waterfall,Belihuloya,Sabaragamuwa,Hiking,6.704,80.764,Hilly,2.5,4.6,181.2615,9,Nuwara Eliya
+36,Bambara Kanda Trailhead Walk,Kalupahana,Sabaragamuwa,Hiking,6.7715,80.8695,Hilly,2.0,4.5,201.7208,9,Nuwara Eliya
+37,Ratnapura National Museum,Ratnapura,Sabaragamuwa,Museum,6.681,80.404,Paved,1.5,4.4,125.1994,3,Hatton Area
+38,Gem Museum (Ratnapura),Ratnapura,Sabaragamuwa,Museum,6.6815,80.405,Paved,1.5,4.3,124.8163,3,Hatton Area
+39,Ratnapura Gem Mining Experience (local),Ratnapura,Sabaragamuwa,Culture,6.68,80.41,Off-Road,3.0,4.5,125.4996,3,Hatton Area
+40,Maha Saman Devalaya,Ratnapura,Sabaragamuwa,Religious,6.6818,80.4022,Paved,1.5,4.6,124.7434,3,Hatton Area
+41,Batagama Raja Maha Viharaya,Ratnapura,Sabaragamuwa,Religious,6.69,80.402,Paved,1.5,4.4,124.9441,3,Hatton Area
+42,Pahanthudawa Natural Pool Area,Belihuloya,Sabaragamuwa,Nature,6.7045,80.7645,Hilly,2.0,4.5,181.3753,9,Nuwara Eliya
+43,Sinharaja Forest Reserve (Deniyaya side access),Deniyaya,Sabaragamuwa,Nature,6.408,80.468,Off-Road,6.0,4.8,157.7904,3,Hatton Area
+44,Sinharaja Rainforest (Kudawa entrance),Kudawa,Sabaragamuwa,Nature,6.428,80.461,Off-Road,6.0,4.8,155.31789999999998,3,Hatton Area
+45,Sinharaja Bird Watching Trails,Kudawa,Sabaragamuwa,Birding,6.43,80.46,Off-Road,5.0,4.7,155.0672,3,Hatton Area
+46,Sinharaja Forest Water Streams (local),Kudawa,Sabaragamuwa,Nature,6.429,80.462,Off-Road,4.0,4.6,155.9215,3,Hatton Area
+48,Morningside Forest Reserve,Kalawana,Sabaragamuwa,Nature,6.416,80.548,Off-Road,5.0,4.7,166.5108,3,Hatton Area
+49,Waturawa Ella Waterfall,Kalawana,Sabaragamuwa,Nature,6.47,80.52,Hilly,2.5,4.5,168.6321,3,Hatton Area
+50,Bopath Ella (Ratnapura District),Kuruwita,Sabaragamuwa,Nature,6.8065,80.3785,Hilly,2.0,4.5,109.5751,3,Hatton Area
+51,Kiriella Hot Springs (local),Kiriella,Sabaragamuwa,Nature,6.733,80.33,Paved,1.5,4.2,113.698,3,Hatton Area
+52,Kiriella Bridge View,Kiriella,Sabaragamuwa,Viewpoint,6.734,80.329,Paved,1.0,4.1,113.4578,3,Hatton Area
+53,Gilimalaya Rainforest Trail,Kalawana,Sabaragamuwa,Hiking,6.45,80.56,Off-Road,4.0,4.6,175.90470000000002,3,Hatton Area
+54,Handapan Ella Falls,Opanayake,Sabaragamuwa,Nature,6.695,80.49,Hilly,2.5,4.4,141.71470000000002,3,Hatton Area
+55,Kiribathgala Temple (Ratnapura),Ratnapura,Sabaragamuwa,Religious,6.69,80.42,Paved,1.5,4.3,127.403,3,Hatton Area
+56,Udawalawe Reservoir (Walawe) Viewpoint,Embilipitiya,Sabaragamuwa,Viewpoint,6.468,80.889,Paved,1.5,4.4,202.2474,9,Nuwara Eliya
+57,Embilipitiya Town Park,Embilipitiya,Sabaragamuwa,Park,6.343,80.849,Paved,1.5,4.1,196.45,9,Nuwara Eliya
+58,Suriyakanda Viewpoint,Suriyakanda,Sabaragamuwa,Viewpoint,6.406,80.659,Hilly,2.5,4.5,196.8525,15,Matara Area
+59,Suriyakanda Hiking Trails,Suriyakanda,Sabaragamuwa,Hiking,6.404,80.661,Hilly,4.0,4.6,196.9823,15,Matara Area
+60,Deniyaya Town & Tea Estates,Deniyaya,Sabaragamuwa,Culture,6.345,80.557,Hilly,2.5,4.3,191.5286,15,Matara Area
+61,Deniyaya Tea Factory Visit (local),Deniyaya,Sabaragamuwa,Museum,6.348,80.553,Hilly,1.5,4.4,192.4146,15,Matara Area
+62,Bopaththalawa Scenic Road,Balangkoda,Sabaragamuwa,Relax,6.65,80.69,Paved,1.5,4.2,168.6141,9,Nuwara Eliya
+63,Imbulpe Kiribathgala Forest Trail,Belihuloya,Sabaragamuwa,Nature,6.715,80.79,Off-Road,3.5,4.4,185.8428,9,Nuwara Eliya
+64,Gem Pits Viewpoint (Ratnapura outskirts),Ratnapura,Sabaragamuwa,Viewpoint,6.675,80.42,Off-Road,2.0,4.3,127.103,3,Hatton Area
+65,Kalawana River Bathing Spots,Kalawana,Sabaragamuwa,Relax,6.53,80.41,Off-Road,2.5,4.3,141.9409,3,Hatton Area
+66,Sinharaja Conservation Centre (Kudawa),Kudawa,Sabaragamuwa,Museum,6.4295,80.4605,Paved,1.5,4.4,155.0672,3,Hatton Area
+67,Pathan Oya Nature Stop,Belihuloya,Sabaragamuwa,Nature,6.705,80.77,Off-Road,2.5,4.3,181.6239,9,Nuwara Eliya
+68,Kirindi Ella Waterfall,Ratnapura,Sabaragamuwa,Nature,6.714,80.426,Hilly,2.5,4.6,132.01129999999998,3,Hatton Area
+69,Kirindi Ella Forest Trail,Ratnapura,Sabaragamuwa,Hiking,6.7135,80.4255,Hilly,3.0,4.5,131.9772,3,Hatton Area
+70,Seethagangula River Pools (Sinharaja),Kudawa,Sabaragamuwa,Nature,6.4305,80.463,Off-Road,3.0,4.6,155.409,3,Hatton Area
+71,Kaluganga River Source Area (local),Kalawana,Sabaragamuwa,Nature,6.44,80.56,Off-Road,4.0,4.4,176.1861,3,Hatton Area
+72,Embilipitiya Cultural Walk,Embilipitiya,Sabaragamuwa,Culture,6.342,80.848,Paved,2.0,4.2,196.5124,9,Nuwara Eliya
+73,Udawalawe Safari Buffer Zone Nature Walk,Embilipitiya,Sabaragamuwa,Nature,6.47,80.895,Off-Road,3.0,4.4,202.1106,9,Nuwara Eliya
+74,Maskeliya Tea Gardens Scenic Stop,Maskeliya,Sabaragamuwa,Viewpoint,6.81,80.53,Hilly,1.5,4.4,144.51579999999998,3,Hatton Area
+75,Tea Smallholder Experience (Ratnapura hills),Ratnapura,Sabaragamuwa,Culture,6.7,80.47,Hilly,3.0,4.3,138.4454,3,Hatton Area
+76,Godakawela Town & River Crossing,Godakawela,Sabaragamuwa,Culture,6.19,80.645,Paved,1.5,4.1,222.836,15,Matara Area
+77,Godakawela Hot Springs (local),Godakawela,Sabaragamuwa,Nature,6.2,80.65,Paved,1.5,4.2,230.4117,15,Matara Area
+78,Opanayake Tea Trails,Opanayake,Sabaragamuwa,Hiking,6.705,80.52,Hilly,3.5,4.3,156.568,3,Hatton Area
+79,Pelmadulla Town Market,Pelmadulla,Sabaragamuwa,Shopping,6.62,80.54,Paved,1.5,4.1,144.05960000000002,3,Hatton Area
+80,Pelmadulla Scenic River Bend,Pelmadulla,Sabaragamuwa,Relax,6.622,80.538,Paved,1.5,4.2,143.38920000000002,3,Hatton Area

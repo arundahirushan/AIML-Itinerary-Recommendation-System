@@ -1,0 +1,71 @@
+Place_ID,Place_Name,City,Province,Category,Latitude,Longitude,Terrain_Type,Time_Needed (H),Rating
+1,Gangaramaya Temple,Colombo,Western,Religious,6.9149,79.8587,Paved,1.5,4.7
+2,Galle Face Green,Colombo,Western,Relax,6.9275,79.8447,Paved,2,4.6
+3,Independence Memorial Hall,Colombo,Western,History,6.9009,79.855,Paved,1.5,4.6
+4,National Museum of Colombo,Colombo,Western,Museum,6.9147,79.8578,Paved,2,4.7
+5,Viharamahadevi Park,Colombo,Western,Park,6.9106,79.8608,Paved,2,4.5
+6,Colombo Lotus Tower,Colombo,Western,Architecture,6.9385,79.8551,Paved,1.5,4.6
+7,Pettah Market,Colombo,Western,Shopping,6.9395,79.8539,Paved,2,4.4
+8,Old Dutch Hospital Shopping Precinct,Colombo,Western,Shopping,6.933,79.8426,Paved,1.5,4.5
+9,Jami Ul-Alfar (Red Mosque),Colombo,Western,Religious,6.9373,79.8539,Paved,1,4.6
+10,Wolvendaal Church,Colombo,Western,History,6.941,79.8587,Paved,1,4.5
+11,BMICH (Bandaranaike Memorial International Conference Hall),Colombo,Western,Culture,6.9065,79.8697,Paved,1.5,4.4
+12,Beira Lake Promenade,Colombo,Western,Relax,6.9262,79.8488,Paved,1.5,4.4
+13,Colombo Lighthouse,Colombo,Western,History,6.9396,79.8425,Paved,1,4.4
+14,Old Parliament Building,Colombo,Western,History,6.9327,79.8437,Paved,1,4.5
+15,Sambodhi Chaithya,Colombo,Western,Religious,6.9399,79.8427,Paved,1,4.5
+16,National Art Gallery,Colombo,Western,Museum,6.9099,79.8604,Paved,1.5,4.4
+17,Independence Arcade,Colombo,Western,Shopping,6.9023,79.8618,Paved,1.5,4.4
+18,Colombo Racecourse Promenade,Colombo,Western,Relax,6.9039,79.8614,Paved,1.5,4.4
+19,National Planetarium,Colombo,Western,Museum,6.8896,79.8714,Paved,1.5,4.4
+20,Dehiwala Zoological Gardens,Dehiwala,Western,Nature,6.8536,79.8657,Paved,3,4.6
+21,Mount Lavinia Beach,Mount Lavinia,Western,Beach,6.8352,79.8611,Paved,3,4.6
+22,Bellanwila Rajamaha Viharaya,Bellanwila,Western,Religious,6.8398,79.8896,Paved,1.5,4.6
+23,Weras Ganga Park,Bellanwila,Western,Park,6.8299,79.887,Paved,1.5,4.4
+24,Attidiya Bird Sanctuary,Attidiya,Western,Birding,6.822,79.9005,Off-Road,2.5,4.3
+25,Beddagana Wetland Park,Battaramulla,Western,Nature,6.8794,79.9164,Off-Road,2.5,4.5
+26,Diyatha Uyana,Battaramulla,Western,Park,6.8977,79.9264,Paved,2,4.6
+27,Parliament Complex,Sri Jayawardenepura Kotte,Western,Architecture,6.8943,79.9185,Paved,1.5,4.5
+28,Talangama Wetlands,Talangama,Western,Birding,6.8808,79.9418,Off-Road,2.5,4.5
+29,Crow Island Beach Park,Modara,Western,Beach,6.9713,79.8696,Paved,2,4.3
+30,St. Lucia’s Cathedral,Kotahena,Western,Religious,6.9417,79.8603,Paved,1,4.5
+31,St. Anthony’s Shrine (Kochchikade),Kochchikade,Western,Religious,6.9349,79.8529,Paved,1,4.5
+32,Asokaramaya Temple,Kirulapone,Western,Religious,6.8788,79.8612,Paved,1,4.4
+33,Colombo City Hall & Museum,Colombo,Western,History,6.9152,79.8619,Paved,1.5,4.3
+34,Port City Marina Promenade,Colombo,Western,Relax,6.9365,79.839,Paved,2,4.4
+35,Independence Square Grounds,Colombo,Western,Park,6.902,79.8618,Paved,1.5,4.5
+36,Negombo Beach,Negombo,Western,Beach,7.2274,79.8417,Paved,3,4.6
+37,Negombo Lagoon,Negombo,Western,Nature,7.179,79.853,Off-Road,3,4.5
+38,Negombo Dutch Fort,Negombo,Western,History,7.2089,79.8341,Paved,1,4.3
+39,St. Mary’s Church,Negombo,Western,Religious,7.2113,79.8447,Paved,1,4.5
+40,Lellama Fish Market,Negombo,Western,Culture,7.219,79.8357,Paved,2,4.3
+41,Angurukaramulla Temple,Negombo,Western,Religious,7.2177,79.8539,Paved,1.5,4.5
+42,Hamilton Canal (Negombo),Negombo,Western,History,7.2535,79.8615,Paved,2,4.3
+43,Waikkal Beach,Waikkal,Western,Beach,7.3189,79.8555,Paved,3,4.4
+44,Kammala Beach,Kammala,Western,Beach,7.3412,79.855,Paved,3,4.3
+45,Muthurajawela Marsh,Wattala,Western,Nature,7.125,79.901,Off-Road,3,4.5
+46,Guruge Nature Park,Ja-Ela,Western,Adventure,7.0424,79.9514,Paved,3,4.2
+47,Horagolla National Park,Nittambuwa,Western,Nature,7.1307,80.0048,Off-Road,2.5,4.4
+48,Henarathgoda Botanical Garden,Gampaha,Western,Nature,7.0906,79.994,Paved,2,4.5
+49,Maligatenna Rajamaha Viharaya,Maligatenna,Western,Religious,7.1465,80.0626,Hilly,2,4.4
+50,Attanagalla Raja Maha Viharaya,Attanagalla,Western,Religious,7.1297,80.0867,Paved,1.5,4.5
+51,Basilica of Our Lady of Lanka (Tewatte),Ragama,Western,Religious,7.0219,79.926,Paved,1.5,4.5
+52,Bopitiya Beach,Bopitiya,Western,Beach,7.081,79.847,Paved,2.5,4.2
+53,Kalutara Bodhiya,Kalutara,Western,Religious,6.5835,79.959,Paved,1.5,4.6
+54,Richmond Castle,Kalutara,Western,History,6.5534,79.9634,Paved,1.5,4.5
+55,Kalutara Beach,Kalutara,Western,Beach,6.575,79.961,Paved,3,4.5
+56,Panadura Beach,Panadura,Western,Beach,6.713,79.902,Paved,3,4.4
+57,Wadduwa Beach,Wadduwa,Western,Beach,6.6405,79.9517,Paved,3,4.4
+58,Moragalla Beach,Moragalla,Western,Beach,6.4504,79.9749,Paved,3,4.4
+59,Barberyn Island Lighthouse,Beruwala,Western,History,6.439,79.9751,Off-Road,2.5,4.6
+60,Kande Viharaya Temple,Aluthgama,Western,Religious,6.4486,80.003,Paved,1.5,4.6
+61,Lunuganga Estate,Bentota,Western,Architecture,6.409,80.0108,Paved,2.5,4.7
+62,Brief Garden by Bevis Bawa,Dharga Town,Western,Nature,6.4213,80.0115,Off-Road,2.5,4.6
+63,Bentota River Safari (Aluthgama Jetty),Aluthgama,Western,Adventure,6.415,80.005,Off-Road,3,4.6
+64,Kalutara Bridge Viewpoint,Kalutara,Western,Relax,6.5798,79.959,Paved,1,4.3
+65,Pahiyangala (Fa-Hien) Cave,Bulathsinhala,Western,Hiking,6.7175,80.1772,Hilly,3,4.6
+66,Thudugala Ella Waterfall,Dodangoda,Western,Hiking,6.4622,80.0689,Hilly,2.5,4.5
+67,Bodhinagala Forest Hermitage,Ingiriya,Western,Nature,6.742,80.164,Off-Road,2.5,4.4
+68,Makeliya Forest Reserve,Baduraliya,Western,Nature,6.684,80.095,Off-Road,3,4.3
+69,Beruwala Beach,Beruwala,Western,Beach,6.4782,79.9828,Paved,3,4.4
+70,Bolgoda Lake South (Panadura side),Panadura,Western,Nature,6.7135,79.915,Off-Road,2.5,4.4
