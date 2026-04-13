@@ -1,7 +1,6 @@
 
 ---
 
-:::writing block
 🧾 AI-Based Travel Itinerary Planning & Vehicle Booking System — Full Project Description
 
 📌 Project Overview  
