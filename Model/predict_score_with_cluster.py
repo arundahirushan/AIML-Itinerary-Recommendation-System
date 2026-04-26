@@ -17,7 +17,7 @@ except FileNotFoundError as e:
 
 print("Model, Scaler, and Cluster data loaded successfully!\n")
 
-# Normalize cluster names for safer matching
+# Normalize cluster names
 cluster_df['Cluster_Name'] = cluster_df['Cluster_Name'].astype(str).str.strip().str.lower()
 
 # Feature columns (MUST match training order)
@@ -43,7 +43,7 @@ def get_valid_int(prompt, valid_values=None):
             print("Invalid input. Please enter a number.")
 
 # ========================== Prediction Function ==========================
-def predict_score():
+def predict_score_for_all_clusters():
     print("\nEnter your preferences:\n")
 
     try:
@@ -54,73 +54,77 @@ def predict_score():
         budget = get_valid_int("Budget (1=Low, 2=Medium, 3=High): ", [1, 2, 3])
         total_days = get_valid_int("Total_Days: ")
 
-        # Show clusters
-        print("\nAvailable Clusters:")
-        print([name.title() for name in cluster_df['Cluster_Name'].unique()])
+        print("\n" + "=" * 60)
+        print("Calculating predicted scores for ALL clusters...")
+        print("=" * 60)
 
-        # Mandatory cluster selection
-        while True:
-            cluster_name = input("\nEnter Cluster_Name: ").strip().lower()
-            if cluster_name in cluster_df['Cluster_Name'].values:
-                break
-            else:
-                print("Invalid Cluster_Name. Please choose from the list above.")
+        results = []
 
-        # Get cluster row
-        row = cluster_df[cluster_df['Cluster_Name'] == cluster_name].iloc[0]
+        # Loop through every cluster
+        for _, row in cluster_df.iterrows():
+            cluster_name = row['Cluster_Name']
 
-        # Build input
-        input_dict = {
-            'Likes_Beach': likes_beach,
-            'Likes_Mountain': likes_mountain,
-            'Likes_Culture': likes_culture,
-            'Likes_Adventure': likes_adventure,
-            'Budget': budget,
-            'Total_Days': total_days,
-            'Adventure': row['Adventure'],
-            'Architecture': row['Architecture'],
-            'Beach': row['Beach'],
-            'Birding': row['Birding'],
-            'Culture': row['Culture'],
-            'Hiking': row['Hiking'],
-            'History': row['History'],
-            'Museum': row['Museum'],
-            'Nature': row['Nature'],
-            'Park': row['Park'],
-            'Relax': row['Relax'],
-            'Religious': row['Religious'],
-            'Safari': row['Safari'],
-            'Shopping': row['Shopping'],
-            'Viewpoint': row['Viewpoint'],
-            'Num_Places': row['Num_Places'],
-            'Avg_Distance': row['Avg_Distance']
-        }
+            # Build input for this cluster
+            input_dict = {
+                'Likes_Beach': likes_beach,
+                'Likes_Mountain': likes_mountain,
+                'Likes_Culture': likes_culture,
+                'Likes_Adventure': likes_adventure,
+                'Budget': budget,
+                'Total_Days': total_days,
+                'Adventure': row['Adventure'],
+                'Architecture': row['Architecture'],
+                'Beach': row['Beach'],
+                'Birding': row['Birding'],
+                'Culture': row['Culture'],
+                'Hiking': row['Hiking'],
+                'History': row['History'],
+                'Museum': row['Museum'],
+                'Nature': row['Nature'],
+                'Park': row['Park'],
+                'Relax': row['Relax'],
+                'Religious': row['Religious'],
+                'Safari': row['Safari'],
+                'Shopping': row['Shopping'],
+                'Viewpoint': row['Viewpoint'],
+                'Num_Places': row['Num_Places'],
+                'Avg_Distance': row['Avg_Distance']
+            }
 
-        print(f"\nUsing cluster: {cluster_name.title()}")
+            # Convert to DataFrame
+            df_input = pd.DataFrame([input_dict])
+            df_input = df_input[feature_columns]
 
-        # Convert to DataFrame
-        df_input = pd.DataFrame([input_dict])
+            # Scale and predict
+            X_scaled = scaler.transform(df_input)
+            score = model.predict(X_scaled)[0]
 
-        # Ensure column order
-        df_input = df_input[feature_columns]
+            results.append({
+                'Cluster': cluster_name.title(),
+                'Score': float(score)
+            })
 
-        # Scale
-        X_scaled = scaler.transform(df_input)
+        # Sort by score (highest first)
+        results.sort(key=lambda x: x['Score'], reverse=True)
 
-        # Predict
-        score = model.predict(X_scaled)[0]
+        # Display results
+        print("\n" + "=" * 70)
+        print(f"{'Rank':<4} {'Cluster Name':<25} {'Predicted Score':<15}")
+        print("=" * 70)
 
-        print("\n" + "=" * 50)
-        print(f"Predicted Score: {float(score):.2f} / 100")
-        print("=" * 50)
+        for rank, res in enumerate(results, 1):
+            print(f"{rank:<4} {res['Cluster']:<25} {res['Score']:.2f} / 100")
+
+        print("=" * 70)
 
     except Exception as e:
         print(f"\nError occurred: {e}")
 
+
 # ========================== Run Loop ==========================
 if __name__ == "__main__":
     while True:
-        predict_score()
+        predict_score_for_all_clusters()
         again = input("\nPredict again? (y/n): ").strip().lower()
         if again != 'y':
             print("Goodbye!")
