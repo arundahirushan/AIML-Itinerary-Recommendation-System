@@ -27,11 +27,13 @@ function App() {
   const [mainClusters, setMainClusters] = useState([]);
   const [suggestions, setSuggestions] = useState([]);
   const [selectedClusters, setSelectedClusters] = useState([]);
+  const [selectedPlaces, setSelectedPlaces] = useState({});
   const [limit, setLimit] = useState(1);
+
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  // ✅ combine all clusters (NO duplicates)
+  // ✅ combine all clusters
   const allClusters = [
     ...mainClusters,
     ...suggestions.filter(
@@ -39,17 +41,23 @@ function App() {
     ),
   ];
 
-  // ✅ toggle selection
+  // ✅ Toggle cluster
   const toggleCluster = (cluster) => {
     const exists = selectedClusters.some(
       (c) => c.cluster === cluster.cluster
     );
 
     if (exists) {
-      // remove (but UI will NOT disappear now)
       setSelectedClusters((prev) =>
         prev.filter((c) => c.cluster !== cluster.cluster)
       );
+
+      // remove places too
+      setSelectedPlaces((prev) => {
+        const updated = { ...prev };
+        delete updated[cluster.cluster];
+        return updated;
+      });
     } else {
       if (selectedClusters.length < limit) {
         setSelectedClusters((prev) => [...prev, cluster]);
@@ -59,13 +67,42 @@ function App() {
     }
   };
 
+  // ✅ Toggle places (max 3 per cluster)
+  const togglePlace = (clusterName, place) => {
+    const currentPlaces = selectedPlaces[clusterName] || [];
+
+    const exists = currentPlaces.some(
+      (p) => p.place === place.place
+    );
+
+    if (exists) {
+      setSelectedPlaces((prev) => ({
+        ...prev,
+        [clusterName]: currentPlaces.filter(
+          (p) => p.place !== place.place
+        ),
+      }));
+    } else {
+      if (currentPlaces.length < 3) {
+        setSelectedPlaces((prev) => ({
+          ...prev,
+          [clusterName]: [...currentPlaces, place],
+        }));
+      } else {
+        alert("You can only select 3 places per cluster");
+      }
+    }
+  };
+
   // ✅ API call
   const handleSubmit = async () => {
     setLoading(true);
     setError(null);
+
     setMainClusters([]);
     setSuggestions([]);
     setSelectedClusters([]);
+    setSelectedPlaces({});
 
     try {
       const response = await axios.post(
@@ -78,7 +115,7 @@ function App() {
 
         setMainClusters(data.main);
         setSuggestions(data.suggestions);
-        setSelectedClusters(data.main); // default selected
+        setSelectedClusters(data.main);
         setLimit(data.limit);
       } else {
         setError("Failed to get recommendations");
@@ -102,7 +139,7 @@ function App() {
         loading={loading}
       />
 
-      {/* ✅ CLUSTERS (FIXED UI) */}
+      {/* ✅ Cluster Selection */}
       <div style={{ marginTop: "30px" }}>
         <h2>
           📍 Choose Destinations ({selectedClusters.length}/{limit})
@@ -124,8 +161,6 @@ function App() {
                   color: isSelected ? "white" : "black",
                   borderRadius: "10px",
                   cursor: "pointer",
-                  opacity: isSelected ? 1 : 0.6,
-                  transition: "0.2s",
                 }}
               >
                 {c.cluster}
@@ -135,8 +170,60 @@ function App() {
         </div>
       </div>
 
-      {/* ✅ MAP */}
-      <MapView clusters={selectedClusters} />
+      {/* ✅ Place Selection */}
+      <div style={{ marginTop: "30px" }}>
+        {selectedClusters.map((cluster, idx) => (
+          <div key={idx} style={{ marginBottom: "25px" }}>
+            <h3>
+              📌 {cluster.cluster} (
+              {(selectedPlaces[cluster.cluster] || []).length}/3 Places)
+            </h3>
+
+            <div
+              style={{
+                display: "flex",
+                gap: "8px",
+                flexWrap: "wrap",
+              }}
+            >
+              {cluster.places?.map((place, pIndex) => {
+                const isSelected =
+                  selectedPlaces[cluster.cluster]?.some(
+                    (p) => p.place === place.place
+                  );
+
+                return (
+                  <div
+                    key={pIndex}
+                    onClick={() =>
+                      togglePlace(cluster.cluster, place)
+                    }
+                    style={{
+                      padding: "8px 12px",
+                      background: isSelected
+                        ? "#2196F3"
+                        : "#eee",
+                      color: isSelected
+                        ? "white"
+                        : "black",
+                      borderRadius: "8px",
+                      cursor: "pointer",
+                    }}
+                  >
+                    {place.place}
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        ))}
+      </div>
+
+      {/* ✅ Map */}
+      <MapView
+        clusters={selectedClusters}
+        selectedPlaces={selectedPlaces}
+      />
     </div>
   );
 }
